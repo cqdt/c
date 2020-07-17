@@ -1,0 +1,288 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="mobile.master.cs" Inherits="mobile" %>
+<%@ Register TagPrefix="radW" Namespace="Telerik.WebControls" Assembly="RadWindow.Net2" %>
+<%@ Register Src="Modules1/Controls/Search.ascx" TagName="Search" TagPrefix="uc10" %>
+<%@ Register Src="Modules1/Base/BArticles.ascx" TagName="BArticles" TagPrefix="uc9" %>
+<%@ Register Src="Modules1/Base/ListTopNewsHome.ascx" TagName="ListTopNewsHome" TagPrefix="uc2" %>
+<%@ Register Src="Modules1/Controls/SupportOnline.ascx" TagName="SupportOnline" TagPrefix="uc8" %>
+<%@ Register Src="Modules1/Base/Link.ascx" TagName="Link" TagPrefix="uc7" %>
+<%@ Register Src="Modules1/Base/Adv.ascx" TagName="Adv" TagPrefix="uc11" %>
+<%@ Register Src="Modules1/Controls/Online.ascx" TagName="Online" TagPrefix="uc6" %>
+<%@ Register Src="Modules1/Controls/Footer.ascx" TagName="Footer" TagPrefix="uc5" %>
+<%@ Register Src="Modules1/Controls/MenuTop.ascx" TagName="MenuTop" TagPrefix="uc4" %>
+<%@ Register Src="Modules1/Controls/HotProduct.ascx" TagName="HotProduct" TagPrefix="uc12" %>
+<%@ Register Src="Modules1/Base/Banner.ascx" TagName="Banner" TagPrefix="uc3" %>
+<%@ Register Src="Modules1/Controls/MenuLeft.ascx" TagName="MenuLeft" TagPrefix="uc1" %>
+<%@ Register Src="Modules1/Controls/Lang.ascx" TagName="Lang" TagPrefix="uc15" %>
+<%@ Register Src="Modules1/Controls/MenuFooter.ascx" TagName="MenuFooter" TagPrefix="uc15" %>
+<%@ Register Src="Modules1/Base/ListMenuProducts.ascx" TagName="ListMenuProducts" TagPrefix="uc14" %>
+<%@ Register Src="Modules1/Base/MenuRight.ascx" TagName="MenuRight" TagPrefix="uc20" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trung tâm lao động ngoài nước - Center of Overseas Labor - Colab</title>
+    
+    <link rel="stylesheet" href="http://colab.gov.vn/Scripts/coin-slider/coin-slider-styles.css" type="text/css" />
+    <script type="text/javascript" src="http://colab.gov.vn/Scripts/coin-slider/coin-slider.js"></script>
+    <script type="text/javascript" src="http://colab.gov.vn/Scripts/superfish-1.4.8/js/hoverIntent.js"></script>
+    <script type="text/javascript" src="http://colab.gov.vn/Scripts/superfish-1.4.8/js/superfish.js"></script>
+    <link rel="stylesheet" type="text/css" href="http://colab.gov.vn/Scripts/superfish-1.4.8/css/superfish.css"  media="screen" />
+
+
+    <link rel="stylesheet" type="text/css" href="http://colab.gov.vn/Styles/bootstrap.min.css"  media="screen" />
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+    <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+ 
+    <script src="http://colab.gov.vn/Styles/bootstrap.min.js"></script>
+
+
+    
+    <script type="text/javascript">
+        jQuery(function () {
+            jQuery('ul.sf-menu').superfish();
+        });
+    </script>
+    <script>
+function goBack() {
+    window.history.go(-1);
+}
+</script>
+    <link rel="stylesheet" href="http://colab.gov.vn/Scripts/newslide/vertical.news.slider.css?v=1.0">
+     <link rel="stylesheet" href="http://fontawesome.io/assets/font-awesome/css/font-awesome.css">
+
+    
+</head>
+<body id="body">
+    <form name="frmMain" id="frmMain" runat="server">
+    <div class="menu_top" style="background-image:url(bg_banner1.jpg)">
+        <div class="logo_top" >
+      <a href="<%= Newwind.VQS.URL %>">
+            <img src="http://colab.gov.vn/Styles/bnmobile.png" alt="Trung tâm lao động ngoài nước"/>
+            </a>
+        </div>
+        <div class="menu">
+            <button type="button" class="btn_menu">
+                <i class="fa fa-bars" aria-hidden="true" style="color: #004c97;"></i>
+            </button>
+            <uc4:MenuTop ID="MenuTop1" runat="server" />
+            
+        </div>
+    </div>
+    <div class="box_search">
+        <uc10:Search ID="Search1" runat="server" />
+    </div>
+    
+    <div id="container">
+        <asp:ContentPlaceHolder ID="cphMain" runat="server"></asp:ContentPlaceHolder>
+        
+        <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+  <div class="panel panel-default">
+  <div class="panel-heading" role="tab" id="Div1">
+      <div class="left sidebar_left">
+    <uc20:MenuRight ID="MenuRight" MenuID="433" runat="server" />
+    </div>
+    </div>
+  
+  
+  
+ <%--   <div class="panel-heading" role="tab" id="headingOne">
+    
+    
+    
+    
+    
+      <h4 class="panel-title">
+        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+            <%= Newwind.VQS.Getkey("eps")%>
+            
+           
+        </a>
+      </h4>
+    </div>--%>
+<%--    <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+      <div class="panel-body">
+         <ul class="menu_footer">
+            <li><a href="">Menu 01</a></li>
+            <li><a href="">Menu 02</a></li>
+            <li><a href="">Menu 03</a></li>
+         </ul>
+      </div>
+    </div>
+  </div>--%>
+  <%--<div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingTwo">
+      <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+         <%= Newwind.VQS.Getkey("im")%>
+        </a>
+      </h4>
+    </div>
+    <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+      <div class="panel-body">
+        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+      </div>
+    </div>
+  </div>--%>
+ <%-- <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingThree">
+      <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+          <%= Newwind.VQS.Getkey("giz")%>
+        </a>
+      </h4>
+    </div>
+    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+      <div class="panel-body">
+        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+      </div>
+    </div>
+  </div>--%>
+  
+  
+  <%--<div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="heading4">
+      <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse4" aria-expanded="false" aria-controls="collapse4">
+         <%= Newwind.VQS.Getkey("khaibaohanquoc")%>
+        </a>
+      </h4>
+    </div>
+    <div id="collapse4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading4">
+      <div class="panel-body">
+        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+      </div>
+    </div>
+  </div>--%>
+  
+  <%--<div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="heading5">
+      <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse5" aria-expanded="false" aria-controls="collapse5">
+          <%= Newwind.VQS.Getkey("botuc")%>
+        </a>
+      </h4>
+    </div>
+    <div id="collapse5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading5">
+      <div class="panel-body">
+        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+      </div>
+    </div>
+  </div>--%>
+  
+</div>
+    <div class="footer_1">
+        <div class="share_page">
+            <a href=""><i class="fa fa-facebook" aria-hidden="true"></i></a>
+            <a href=""><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+            <a href=""><i class="fa fa-youtube" aria-hidden="true"></i></a>
+            <a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a>
+        </div>
+        <uc5:Footer ID="Footer1" runat="server" />
+        </div>
+    </div>
+      <script src="http://colab.gov.vn/Scripts/newslide/vertical.news.slider.js"></script>
+<link href="http://colab.gov.vn/Styles/style22.css" rel="stylesheet" type="text/css" />  
+    <script type="text/javascript">
+
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-71558824-1', 'auto');
+        ga('send', 'pageview');
+
+</script>
+
+<script>
+var is_check = true;
+$('.btn_menu').click(function(){
+    if(is_check == true){
+        $('.menu_top2').slideDown();
+        is_check = false;
+    }else{
+        $('.menu_top2').slideUp();
+        is_check = true;
+    }
+});
+</script>
+<script src="Styles/jquery.min.js"></script>
+<link rel="stylesheet" href="<%= Newwind.VQS.URL%>/Styles/owl-carousel/owl.carousel-2.0.0.css" type="text/css" />
+    <link rel="stylesheet" href="<%= Newwind.VQS.URL%>/Styles/owl-carousel/owl.theme.css" type="text/css" />
+    <script type="text/javascript" src="<%= Newwind.VQS.URL%>/Styles/owl-carousel/owl.carousel-2.0.0.min.js"></script>
+    <script type="text/javascript" src="<%= Newwind.VQS.URL%>/Styles/owl-carousel/owl.carousel-gen.js"></script>
+    <link rel="stylesheet" href="Styles/jquery-ui-1.12.1/jquery-ui.min.css"/>
+    <script type="text/javascript" src="Styles/jquery-ui-1.12.1/jquery-ui.min.js"></script>
+<script>
+$(document).ready(function() {
+    $.datepicker.regional["vi-VN"] =
+
+	{
+
+		closeText: "Đóng",
+
+		prevText: "Trước",
+
+		nextText: "Sau",
+
+		currentText: "Hôm nay",
+
+		monthNames: ["Tháng một", "Tháng hai", "Tháng ba", "Tháng tư", "Tháng năm", "Tháng sáu", "Tháng bảy", "Tháng tám", "Tháng chín", "Tháng mười", "Tháng mười một", "Tháng mười hai"],
+
+		monthNamesShort: ["Một", "Hai", "Ba", "Bốn", "Năm", "Sáu", "Bảy", "Tám", "Chín", "Mười", "Mười một", "Mười hai"],
+
+		dayNames: ["Chủ nhật", "Thứ hai", "Thứ ba", "Thứ tư", "Thứ năm", "Thứ sáu", "Thứ bảy"],
+
+		dayNamesShort: ["CN", "Hai", "Ba", "Tư", "Năm", "Sáu", "Bảy"],
+
+		dayNamesMin: ["CN", "T2", "T3", "T4", "T5", "T6", "T7"],
+
+		weekHeader: "Tuần",
+
+		dateFormat: "dd/mm/yy",
+
+		firstDay: 1,
+
+		isRTL: false,
+
+		showMonthAfterYear: false,
+
+		yearSuffix: ""
+
+	};
+
+
+
+	$.datepicker.setDefaults($.datepicker.regional["vi-VN"]);
+
+});
+    $(".datepicker").datepicker({dateFormat:"dd/mm/yy"});
+  //$("#leftID").owlCarousel();
+
+});
+$('.sidebar_left').on('click','.btn_subleft',function(){
+    $('.sub_left').slideUp();
+    var id = $(this).attr("leftID");
+    $('.sub_left'+id+'').slideDown();
+});
+
+
+
+</script>
+<style>
+    .hidden{
+        display:none;
+    }
+    * {
+        -webkit-box-sizing: content-box;
+        -moz-box-sizing: content-box;
+        box-sizing: content-box;
+    }
+</style>
+</form>   
+</body>
+</html>

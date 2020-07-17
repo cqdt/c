@@ -1,0 +1,27 @@
+22 | Công ty TNHH Minh Hưng Tiền Giang | Nhân viên kho | Cần Thơ | 04888888--
+22 | Công ty TNHH Minh Hưng Tiền Giang | Tài xế dấu C | Cần Thơ | 04888888--
+22 | Công ty TNHH 1TV CB TP XK Vạn Đức Tiền Giang | Nhân viên bảo trì | Cần Thơ | 04888888--
+22 | Công ty TNHH 1TV CB TP XK Vạn Đức Tiền Giang | Nhân viên thống kê kho | Cần Thơ | 04888888--
+22 | Công ty TNHH 1TV CB TP XK Vạn Đức Tiền Giang | Nhân viên kỹ thuật nuôi trồng  | Cần Thơ | 04888888--
+22 | Công ty TNHH 1TV CB TP XK Vạn Đức Tiền Giang | Kế toán văn phòng | Cần Thơ | 04888888--
+22 | Chi nhánh Tiền Giang - Công ty CP Viễn thông FPT | Nhân viên kỹ thuật | Cần Thơ | 04888888--
+22 | Công ty TNHH Knitpassion | Công nhân đứng máy dệt | Cần Thơ | 04888888--
+22 | Công ty TNHH Knitpassion | Công nhân kiểm mảnh | Cần Thơ | 04888888--
+22 | Công ty TNHH Knitpassion | Công nhân may ráp | Cần Thơ | 04888888--
+22 | Công ty TNHH Knitpassion | Công nhân khâu, vá, nhân ủi, đóng gói | Cần Thơ | 04888888--
+22 | Công ty TNHH Knitpassion | Kỹ thuật viên | Cần Thơ | 04888888--
+22 | Công ty TNHH nông dược VINA CHEML | Nhân viên kinh doanh | Cần Thơ | 04888888--
+22 | Công ty TNHH nông dược VINA CHEML | Nhân viên kỹ thuật | Cần Thơ | 04888888--
+22 | Công ty TNHH BHNT GEN Cà Mau | Nhân viên chăm sóc khách hàng | Cần Thơ | 04888888--
+22 | Công ty TNHH PT Tôm Giống Liên Thành | Nhân viên kinh doanh | Cần Thơ | 04888888--
+22 | Công ty TNHH PT Tôm Giống Liên Thành | Nhân viên bán hàng qua điện thoại | Cần Thơ | 04888888--
+22 | Công ty CP Thủy Sản Cafatex | Lao động phổ thông | Cần Thơ | 04888888--
+22 | Công ty thủy sản Minh Phú - Hậu Giang | Công nhân chế biên thủy sản | Cần Thơ | 04888888--
+22 | Công ty Cổ Phần may Nhà Bè | Công nhân | Cần Thơ | 04888888--
+22 | Công ty CP Cao Su Sài Gòn KymDan(CN Cần Thơ) | Nhân viên tiếp thị bán hàng | Cần Thơ | 04888888--
+22 | Công ty TNHH NISSEI ELECTRIC VIỆT NAM | Công nhân | Cần Thơ | 04888888--
+22 | Công ty TNHH Đại Danh | Nhân viên phục vụ nhà hàng khách quốc tế | Cần Thơ | 04888888--
+22 | Công ty TNHH Đại Danh | Nhân viên Bellboy | Cần Thơ | 04888888--
+22 | Công ty TNHH Đại Danh |  Nhân viên Bảo trì | Cần Thơ | 04888888--
+22 | Công ty TNHH Đại Danh |  Nhân viên Kế toán kho | Cần Thơ | 04888888--
+22 | Công ty TNHH Đại Danh | Nhân viên kinh doanh | Cần Thơ | 04888888--

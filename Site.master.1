@@ -1,0 +1,157 @@
+﻿<%@ master language="C#" autoeventwireup="true" inherits="Site, colab" %>
+
+<%@ Register TagPrefix="radW" Namespace="Telerik.WebControls" Assembly="RadWindow.Net2" %>
+<%@ Register Src="Modules/Controls/Search.ascx" TagName="Search" TagPrefix="uc10" %>
+<%@ Register Src="Modules/Base/BArticles.ascx" TagName="BArticles" TagPrefix="uc9" %>
+<%@ Register Src="Modules/Base/ListTopNewsHome.ascx" TagName="ListTopNewsHome" TagPrefix="uc2" %>
+<%@ Register Src="Modules/Controls/SupportOnline.ascx" TagName="SupportOnline" TagPrefix="uc8" %>
+<%@ Register Src="Modules/Base/Link.ascx" TagName="Link" TagPrefix="uc7" %>
+<%@ Register Src="Modules/Base/Adv.ascx" TagName="Adv" TagPrefix="uc11" %>
+<%@ Register Src="Modules/Controls/Online.ascx" TagName="Online" TagPrefix="uc6" %>
+<%@ Register Src="Modules/Controls/Footer.ascx" TagName="Footer" TagPrefix="uc5" %>
+<%@ Register Src="Modules/Controls/MenuTop.ascx" TagName="MenuTop" TagPrefix="uc4" %>
+<%@ Register Src="Modules/Controls/HotProduct.ascx" TagName="HotProduct" TagPrefix="uc12" %>
+<%@ Register Src="Modules/Base/Banner.ascx" TagName="Banner" TagPrefix="uc3" %>
+<%@ Register Src="Modules/Controls/MenuLeft.ascx" TagName="MenuLeft" TagPrefix="uc1" %>
+<%@ Register Src="Modules/Controls/Lang.ascx" TagName="Lang" TagPrefix="uc15" %>
+<%@ Register Src="Modules/Controls/MenuFooter.ascx" TagName="MenuFooter" TagPrefix="uc15" %>
+<%@ Register Src="Modules/Base/ListMenuProducts.ascx" TagName="ListMenuProducts" TagPrefix="uc14" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Trung tâm lao động ngoài nước - Center of Overseas Labor - Colab</title>
+    <link href="Styles/style.css" rel="stylesheet" type="text/css" />  
+    <link rel="stylesheet" href="Scripts/coin-slider/coin-slider-styles.css" type="text/css" />
+    <script type="text/javascript" src="Scripts/coin-slider/coin-slider.js"></script>
+    <script type="text/javascript" src="Scripts/superfish-1.4.8/js/hoverIntent.js"></script>
+    <script type="text/javascript" src="Scripts/superfish-1.4.8/js/superfish.js"></script>
+    <link rel="stylesheet" type="text/css" href="Scripts/superfish-1.4.8/css/superfish.css"  media="screen" />
+    
+    <script type="text/javascript">        
+        jQuery(function () {
+            jQuery('ul.sf-menu').superfish();
+        });
+    </script>
+    <link rel="stylesheet" href="Scripts/newslide/vertical.news.slider.css?v=1.0">
+
+    
+</head>
+<body id="body">
+    <form name="frmMain" id="frmMain" runat="server">
+    <div id="container">
+        <div id="screen">
+            <div class="banner" style="background-image:url(<%= Newwind.VQS.URL + "/" + Image_Url %>)">
+                <p class="bolaodong">bộ lao động - thương binh và xã hội</p>
+                <p class="bannertrungtam">trung tâm lao động ngoài nước</p>
+                <p class="colab">Center of Overseas Labour</p>
+            </div>
+            <div class="menutop">
+                <uc4:MenuTop ID="MenuTop1" runat="server" />
+            </div>
+            <div class="all">
+                <div class="left">
+                    <uc1:MenuLeft ID="MenuLeft1" MenuID="321" runat="server" />
+
+                    <div class="banner_left"><div class="khung_ico">
+                        <img class="imgico" src="<%= Newwind.VQS.URL %>/images/eps.png" width="31px" height="26px" /></div>
+                        <a href="<%= Newwind.VQS.URL %>/eps.aspx" class="a_eps"><%= CMS.Lang.GetKey("Home.ascx", "eps")%></a>
+                    </div>
+                    <div class="banner_left"><div class="khung_ico">
+                        <img class="imgico" src="<%= Newwind.VQS.URL %>/images/im.png" width="29px" height="31px" /></div>
+                        <a href="<%= Newwind.VQS.URL %>/im-japan.aspx" class="a_eps"><%= CMS.Lang.GetKey("Home.ascx", "im")%></a> <!-- ok -->
+                    </div>
+                    <div class="banner_left"><div class="khung_ico">
+                        <img class="imgico" src="<%= Newwind.VQS.URL %>/images/giz.png" width="19px" height="42px" /></div>
+                        <a href="<%= Newwind.VQS.URL %>/dang-ky-du-tuyen-chuong-trinh-chlb-duc.aspx" class="a_eps"><%= CMS.Lang.GetKey("Home.ascx", "giz")%></a>                   
+                    </div>
+
+
+                     <div class="banner_left"><div class="khung_ico">
+                        <img class="imgico" src="<%= Newwind.VQS.URL %>/images/report_user.png" width="28px" height="28px" /></div>
+                        <a href="<%= Newwind.VQS.URL %>/khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc.aspx" class="a_eps"><%= CMS.Lang.GetKey("Home.ascx", "khaibaohanquoc")%></a>      
+                    </div>
+
+
+                    <div class="banner_left"><div class="khung_ico">
+                    <img class="imgico" src="<%= Newwind.VQS.URL %>/images/pc.png" width="25px" height="28px" /></div>
+                    <a href="<%= Newwind.VQS.URL %>/dang-ky-bo-tuc-tieng-han-tren-may-tinh.aspx" class="a_eps"><%= CMS.Lang.GetKey("Home.ascx", "botuc")%></a>  <!-- ok -->
+                    </div> 
+                    <div class="banner_left"><div class="khung_ico">
+                    <img class="imgico" src="<%= Newwind.VQS.URL %>/images/reg.png" width="23px" height="27px" /></div>
+                    <%--<a href="<%= Newwind.VQS.URL %>/dang-ky-tim-viec.aspx" class="a_tuyendung"><%= CMS.Lang.GetKey("Home.ascx", "timviec")%></a>--%>
+                    <a href="<%= Newwind.VQS.URL %>/dang-ky-tim-viec.aspx" class="a_tuyendung"><%= CMS.Lang.GetKey("Home.ascx", "timviec")%></a>
+                      <span class="a_eps_sub"><%= CMS.Lang.GetKey("Home.ascx", "nguoilaodong")%></span>  
+                    
+                    </div>
+                    <div class="banner_left"><div class="khung_ico korea">
+                    <img class="imgico" src="<%= Newwind.VQS.URL %>/images/hr.png" width="27px" height="34px" /></div>
+                    <a href="<%= Newwind.VQS.URL %>/dang-ky-tuyen-dung.aspx" class="a_tuyendung"><%= CMS.Lang.GetKey("Home.ascx", "tuyendung")%></a> 
+
+                   
+
+                    
+                    <span class="a_eps_sub"><%= CMS.Lang.GetKey("Home.ascx", "doanhnghiep")%></span>    
+                    
+                     <a href="<%= Newwind.VQS.URL %>/findworker.aspx" class="a_tuyendung_korea">Korea</a>
+                     
+                                     
+                    </div>
+                    <div class="banner_left"><div class="khung_ico">
+                    <img class="imgico" src="<%= Newwind.VQS.URL %>/images/train.png" width="26px" height="36px" /></div>
+                    <a href="<%= Newwind.VQS.URL %>/dang-ky-khoa-hoc-dao-tao-nghe-ngoai-ngu-eps.aspx" class="a_eps"><%= CMS.Lang.GetKey("Home.ascx", "daotaoeps")%></a> 
+                    </div>
+                    <div class="banner_left"><div class="khung_ico">
+                    <img class="imgico" src="<%= Newwind.VQS.URL %>/images/book3.png" width="32px" height="32px" /></div>
+                    <a href="<%= Newwind.VQS.URL %>/huong-dan-thu-tuc-nhan-tien-bao-hiem.aspx" class="a_eps"><%= CMS.Lang.GetKey("Home.ascx", "baohiem")%></a> 
+                    </div>
+
+
+
+                    <div class="bg_link">
+                        <span class="a_link"> <%= CMS.Lang.GetKey("Home.ascx", "lienketweb")%></span>
+                    </div>
+                    <div class="banner_link">
+                    <uc7:Link ID="Link1" runat="server" /></div>
+                    <div class="banner_online">
+                        <p>Số người truy cập</p>
+                        <uc6:Online ID="Online1" runat="server" />
+                    </div>
+
+                </div>
+                <div class="contents">
+                    <asp:ContentPlaceHolder ID="cphMain" runat="server"></asp:ContentPlaceHolder>
+                </div>
+                <div class="menu_footer">
+                    <uc15:MenuFooter ID="MenuFooter1" runat="server" />
+                </div>
+                <div class="footter" style="background-image:url(<%= Newwind.VQS.URL + "/" + foot %>)">
+                    <uc5:Footer ID="Footer1" runat="server" />
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-71558824-1', 'auto');
+        ga('send', 'pageview');
+
+</script>
+
+
+
+
+</form>   
+</body>
+</html>

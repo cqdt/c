@@ -1,0 +1,594 @@
+Thời gian lỗi : 4/1/2018 5:32:35 PM  
+IP : 1.52.35.51
+Đường dẫn : http://www.colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/1/2018 6:15:58 PM  
+IP : 218.158.76.24
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/2/2018 2:59:13 PM  
+IP : 14.191.69.117
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/2/2018 5:06:47 PM  
+IP : 123.25.68.189
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/2/2018 5:43:44 PM  
+IP : 113.186.252.14
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/2/2018 6:15:14 PM  
+IP : 171.227.199.209
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/3/2018 8:45:36 AM  
+IP : 171.224.241.103
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=nld-dang-ky-tim-viec&itv=tv20673&ht=1&phien=21&cty=---+Chọn+doanh+nghiệp+---
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '='..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 4/3/2018 8:46:18 AM  
+IP : 171.224.241.103
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=nld-dang-ky-tim-viec&itv=tv20673&ht=1&phien=21&cty=---+Chọn+doanh+nghiệp+---
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '='..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 4/3/2018 8:46:46 AM  
+IP : 171.224.241.103
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=nld-dang-ky-tim-viec&itv=tv20673&ht=1&phien=21&cty=---+Chọn+doanh+nghiệp+---
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '='..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 4/3/2018 1:16:17 PM  
+IP : 14.229.101.234
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/3/2018 1:56:04 PM  
+IP : 113.160.155.84
+Đường dẫn : http://www.colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/3/2018 3:15:56 PM  
+IP : 27.67.191.252
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/3/2018 5:31:40 PM  
+IP : 117.6.124.239
+Đường dẫn : http://www.colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/4/2018 1:44:14 PM  
+IP : 1.52.33.199
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/4/2018 6:40:49 PM  
+IP : 113.183.12.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=nld-dang-ky-tim-viec&itv=tv40903&ht=1&phien=21&cty=---+Chọn+doanh+nghiệp+---
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '='..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 4/5/2018 10:59:21 AM  
+IP : 14.170.230.3
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/5/2018 11:00:30 AM  
+IP : 14.161.44.206
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/5/2018 11:00:32 AM  
+IP : 14.161.44.206
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/5/2018 11:00:36 AM  
+IP : 14.161.44.206
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/5/2018 11:00:37 AM  
+IP : 14.161.44.206
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/5/2018 11:00:41 AM  
+IP : 14.161.44.206
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/5/2018 11:00:45 AM  
+IP : 14.161.44.206
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/5/2018 11:00:48 AM  
+IP : 14.161.44.206
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/5/2018 11:00:53 AM  
+IP : 14.161.44.206
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/5/2018 11:00:54 AM  
+IP : 14.161.44.206
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/5/2018 11:00:55 AM  
+IP : 14.161.44.206
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/5/2018 1:29:51 PM  
+IP : 1.52.36.5
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/6/2018 8:27:13 AM  
+IP : 123.26.161.134
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/6/2018 1:56:20 PM  
+IP : 14.162.146.9
+Đường dẫn : http://www.colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/8/2018 10:46:26 PM  
+IP : 171.238.97.87
+Đường dẫn : http://www.colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/8/2018 10:46:26 PM  
+IP : 171.238.97.87
+Đường dẫn : http://www.colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/9/2018 4:17:54 PM  
+IP : 14.163.183.167
+Đường dẫn : http://www.colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/10/2018 8:38:22 AM  
+IP : 14.229.204.114
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/10/2018 4:34:53 PM  
+IP : 113.168.14.236
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=nld-dang-ky-tim-viec&itv=TV89286&ht=1&phien=---+Chọn+phiên+GDVL+---
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '='..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 4/10/2018 9:49:24 PM  
+IP : 42.115.142.102
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/11/2018 1:47:34 AM  
+IP : 117.0.224.129
+Đường dẫn : http://www.colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/11/2018 12:17:56 PM  
+IP : 14.175.106.72
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/11/2018 12:18:23 PM  
+IP : 14.175.106.72
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/11/2018 12:48:30 PM  
+IP : 14.234.124.37
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/11/2018 4:26:51 PM  
+IP : 223.132.157.239
+Đường dẫn : http://www.colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/11/2018 9:57:19 PM  
+IP : 117.1.81.52
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/12/2018 7:25:52 AM  
+IP : 14.175.106.72
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/12/2018 7:26:53 AM  
+IP : 14.175.106.72
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/12/2018 9:04:02 AM  
+IP : 14.236.101.130
+Đường dẫn : http://www.colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/12/2018 10:55:23 AM  
+IP : 113.185.25.228
+Đường dẫn : http://www.colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/12/2018 11:45:51 AM  
+IP : 14.161.253.239
+Đường dẫn : http://www.colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/12/2018 5:49:57 PM  
+IP : 123.24.40.109
+Đường dẫn : http://www.colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/13/2018 2:38:40 PM  
+IP : 113.186.235.128
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=nld-dang-ky-tim-viec&itv=TV24007&ht=1&phien=21&cty=---+Chọn+doanh+nghiệp+---
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '='..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 4/13/2018 2:38:57 PM  
+IP : 113.186.235.128
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=nld-dang-ky-tim-viec&itv=TV24007&ht=1&phien=21&cty=---+Chọn+doanh+nghiệp+---
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '='..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 4/13/2018 2:39:31 PM  
+IP : 113.186.235.128
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=nld-dang-ky-tim-viec&itv=TV24007&ht=1&phien=21&cty=---+Chọn+doanh+nghiệp+---
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '='..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 4/14/2018 1:32:20 AM  
+IP : 113.186.235.128
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/14/2018 1:49:49 AM  
+IP : 113.186.235.128
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/14/2018 8:52:41 AM  
+IP : 14.244.3.129
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/14/2018 9:52:23 PM  
+IP : 117.6.116.186
+Đường dẫn : http://www.colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/15/2018 7:57:02 PM  
+IP : 171.238.188.7
+Đường dẫn : http://www.colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/16/2018 10:04:53 AM  
+IP : 113.186.235.128
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/16/2018 1:21:08 PM  
+IP : 113.186.235.128
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/16/2018 11:23:28 PM  
+IP : 27.67.189.104
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/17/2018 12:28:46 PM  
+IP : 58.187.234.156
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/17/2018 5:25:52 PM  
+IP : 116.103.197.105
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/17/2018 5:28:19 PM  
+IP : 116.103.197.105
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/17/2018 7:23:06 PM  
+IP : 27.76.20.238
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=nld-dang-ky-tim-viec&itv=TV68921&ht=1&phien=21&cty=---+Chọn+doanh+nghiệp+---
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '='..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 4/17/2018 8:42:21 PM  
+IP : 171.224.24.192
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/17/2018 8:42:33 PM  
+IP : 171.224.24.192
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/17/2018 8:42:34 PM  
+IP : 171.224.24.192
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/18/2018 2:23:23 PM  
+IP : 14.171.155.248
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/19/2018 12:08:58 AM  
+IP : 14.231.180.228
+Đường dẫn : http://www.colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/19/2018 12:11:13 AM  
+IP : 14.231.180.228
+Đường dẫn : http://www.colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/20/2018 8:29:20 AM  
+IP : 1.52.33.136
+Đường dẫn : http://www.colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/20/2018 9:54:51 AM  
+IP : 171.226.252.92
+Đường dẫn : http://www.colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/20/2018 6:37:48 PM  
+IP : 211.36.130.236
+Đường dẫn : http://www.colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/20/2018 6:40:10 PM  
+IP : 211.36.130.236
+Đường dẫn : http://www.colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/21/2018 6:16:33 PM  
+IP : 14.182.28.32
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/21/2018 6:20:47 PM  
+IP : 14.182.28.32
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/21/2018 9:05:35 PM  
+IP : 171.229.33.150
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/21/2018 11:11:41 PM  
+IP : 116.107.73.79
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/22/2018 4:13:47 PM  
+IP : 58.186.161.178
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/22/2018 5:29:46 PM  
+IP : 27.79.253.15
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=business-info&itd=TD5519
+Nội dung lỗi : SQL lỗi : Error converting data type varchar to bigint..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 4/23/2018 1:49:34 PM  
+IP : 180.93.28.254
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/23/2018 4:18:58 PM  
+IP : 113.190.183.135
+Đường dẫn : http://www.colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/23/2018 4:25:33 PM  
+IP : 115.72.230.23
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/23/2018 11:58:01 PM  
+IP : 116.107.73.79
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/24/2018 10:23:29 AM  
+IP : 14.163.242.110
+Đường dẫn : http://www.colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/24/2018 8:31:55 PM  
+IP : 27.3.176.14
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/24/2018 8:34:34 PM  
+IP : 117.4.141.2
+Đường dẫn : http://www.colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/24/2018 8:35:32 PM  
+IP : 27.3.176.14
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/24/2018 9:10:06 PM  
+IP : 113.184.18.64
+Đường dẫn : http://www.colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/24/2018 9:12:31 PM  
+IP : 14.189.44.248
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/24/2018 9:35:13 PM  
+IP : 1.52.36.72
+Đường dẫn : http://www.colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/25/2018 9:54:27 AM  
+IP : 117.2.183.142
+Đường dẫn : http://www.colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/25/2018 9:03:32 PM  
+IP : 27.77.141.115
+Đường dẫn : http://www.colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/26/2018 10:31:18 AM  
+IP : 1.52.35.217
+Đường dẫn : http://www.colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/26/2018 6:55:49 PM  
+IP : 171.242.215.215
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/27/2018 6:32:05 PM  
+IP : 116.101.68.47
+Đường dẫn : http://www.colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/27/2018 11:45:15 PM  
+IP : 112.197.220.143
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/28/2018 11:45:35 AM  
+IP : 14.166.118.119
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/29/2018 8:24:28 PM  
+IP : 101.53.4.190
+Đường dẫn : http://www.colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/29/2018 10:11:19 PM  
+IP : 116.97.113.27
+Đường dẫn : http://www.colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 4/30/2018 1:06:32 PM  
+IP : 14.187.248.163
+Đường dẫn : http://www.colab.gov.vn/Default.aspx?c=faq
+Nội dung lỗi : Object reference not set to an instance of an object.CMS   at CMS.Lang.GetKey(String path, String key)
+
+

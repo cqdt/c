@@ -1,0 +1,3 @@
+9
+00:00:19.3720000-->00:00:19.3720000
+ Tuy vậy, không phải mọi điểm dừng đều cho tương ứng với một nghiệm của bài toán ban đầu

@@ -1,0 +1,44 @@
+1
+00:00:01.4690000-->00:00:01.4690000
+Ví dụ (xem Hình 1), xét bài toán tối ưu hóa
+
+2
+00:00:04.2280000-->00:00:04.2280000
+tìm cực đại của hàm f(x, y)
+
+3
+00:00:07.2060000-->00:00:07.2060000
+chịu điều kiện giới hạn g(x, y) = 0
+
+4
+00:00:09.4030000-->00:00:09.4030000
+Chúng ta cần f và g đều phải thỏa mãn là chúng liên tục tại đạo hàm riêng bậc nhất của chúng
+
+5
+00:00:11.3810000-->00:00:11.3810000
+ Đặt một biến mới (λ) gọi là nhân tử Lagrange và nghiên cứu hàm Lagrange (hay Lagrangian) định nghĩa bằng
+
+6
+00:00:13.5470000-->00:00:13.5470000
+{\displaystyle \Lambda (x,y,\lambda )=f(x,y)+\lambda \cdot g(x,y),}{\displaystyle \Lambda (x,y,\lambda )=f(x,y)+\lambda \cdot g(x,y),}
+
+7
+00:00:15.1340000-->00:00:15.1340000
+với số hạng λ có thể là cộng hoặc trừ
+
+8
+00:00:17.0340000-->00:00:17.0340000
+ Nếu f(x0, y0) là giá trị cực đại của f(x, y) cho bài toán giới hạn ban đầu, thì tồn tại λ0 sao cho (x0, y0, λ0) là một điểm dừng của hàm Lagrange (điểm dừng là những điểm mà đạo hàm riêng của nó theo Λ bằng 0)
+
+9
+00:00:19.3720000-->00:00:19.3720000
+ Tuy vậy, không phải mọi điểm dừng đều cho tương ứng với một nghiệm của bài toán ban đầu
+
+10
+00:00:21.7560000-->00:00:21.7560000
+ Do đó, phương pháp nhân tử Lagrange mang lại điều kiện cần cho mục đích tối ưu hóa trong các bài toán giới hạn
+
+11
+00:00:23.8440000-->00:00:23.8440000
+[2][3][4][5][6] Điều kiện đủ cho giá trị cực đại và cực tiểu cũng phải thỏa mãn
+

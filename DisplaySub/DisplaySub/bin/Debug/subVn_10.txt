@@ -1,0 +1,3 @@
+10
+00:00:21.7560000-->00:00:21.7560000
+ Do đó, phương pháp nhân tử Lagrange mang lại điều kiện cần cho mục đích tối ưu hóa trong các bài toán giới hạn

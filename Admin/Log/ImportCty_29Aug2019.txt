@@ -1,0 +1,66 @@
+32 | Công ty cổ phần nguồn nhân lực World Link  | Nhân viên kỹ thuật 
+mạ đồng | Số 59 phố Phương Liệt, Phường Phương Liệt, Quận Thanh Xuân, Hà Nội | --
+32 | Công ty cổ phần nguồn nhân lực World Link  | Nhân viên kỹ thuật lộ quang | Số 59 phố Phương Liệt, Phường Phương Liệt, Quận Thanh Xuân, Hà Nội | --
+32 | Công ty TNHH Dasung | NV kinh doanh | B16-05A khu chức năng đô thị thành phố xanh P. Cầu Diễn, Nam Từ Liêm, Hà Nội | --
+32 | Công ty TNHH Dasung | Nhân viên kỹ thuật | B16-05A khu chức năng đô thị thành phố xanh P. Cầu Diễn, Nam Từ Liêm, Hà Nội | --
+32 | Tập đoàn Sunhouse | Phiên dịch tiếng Hàn | Khu công nghiệp Ngọc Liệp, Quốc Oai, Hà Nội | --
+32 | Công ty TNHH Dịch vụ TH Tours | Nhân viên điều hành tour | Tầng 8 tòa nhà Qunimex, 29 Lê Đại Hành, Hai Bà Trưng, Hà Nội | --
+32 | Công ty TNHH Dịch vụ TH Tours | Nhân viên kinh doanh | Tầng 8 tòa nhà Qunimex, 29 Lê Đại Hành, Hai Bà Trưng, Hà Nội | --
+32 | Công ty TNHH Dịch vụ TH Tours | Nhân viên marketing | Tầng 8 tòa nhà Qunimex, 29 Lê Đại Hành, Hai Bà Trưng, Hà Nội | --
+32 | Công ty YoungPoong Electronics Vina | Quản lý sản xuất | Lô CN06, KCN Bình Xuyên II, xã Bá Hiện, Huyện Bình Xuyên, Vĩnh Phúc | --
+32 | Công ty YoungPoong Electronics Vina | Nhân viên kỹ thuật | Lô CN06, KCN Bình Xuyên II, xã Bá Hiện, Huyện Bình Xuyên, Vĩnh Phúc | --
+32 | Công ty YoungPoong Electronics Vina | Nhân viên chất lượng | Lô CN06, KCN Bình Xuyên II, xã Bá Hiện, Huyện Bình Xuyên, Vĩnh Phúc | --
+32 | Công ty YoungPoong Electronics Vina | Phiên dịch tiếng Hàn | Lô CN06, KCN Bình Xuyên II, xã Bá Hiện, Huyện Bình Xuyên, Vĩnh Phúc | --
+32 | Công ty TNHH Youngbag Micromotor Vietnam | Phiên dịch tiếng Hàn(tài chính kế toán) | KCN Bình Xuyên, Huyện Bình Xuyên, Vĩnh Phúc | --
+32 | Công ty TNHH Youngbag Micromotor Vietnam | Quản lý sản xuất | KCN Bình Xuyên, Huyện Bình Xuyên, Vĩnh Phúc | --
+32 | Công ty cổ phần quốc tế World Star | Nhân viên kinh doanh và phiên dịch lĩnh vực IT | Tầng 6, Viglacera Tower, No1 Thăng Long, Mễ Trì, Nam Từ Liêm, Hà Nội | --
+32 | Công ty TNHH Youngbag Micromotor Vietnam | Quản lý mua bán | ĐT310B, TT. Hương Canh, Bình Xuyên, Vĩnh Phúc | --
+32 | Công ty TNHH JobPro | Phiên dịch tiếng Hàn | Số 24, ngõ 2, đường Trần Văn Lai, Mỹ Đình, Nam Từ Liêm, Hà Nội | --
+32 | Công ty TNHH JobPro | Vận hành thiết b
+ SMT | Số 24, ngõ 2, đường Trần Văn Lai, Mỹ Đình, Nam Từ Liêm, Hà Nội | --
+32 | Công ty TNHH JobPro | Vận hành MCT | Số 24, ngõ 2, đường Trần Văn Lai, Mỹ Đình, Nam Từ Liêm, Hà Nội | --
+32 | Công ty TNHH Boteco Thai Binh Duong  | Kỹ thuật viên | Tầng 15, khối B, tòa nhà Sông Đà, Mỹ Đình, Hà Nội | --
+32 | Công ty TNHH BHFlex Vina | Quản lý sản xuất | Lô 7, KCN Khai Quang, Vĩnh Yên, Vĩnh Phúc | --
+32 | Công ty TNHH BHFlex Vina | Kỹ thuật | Lô 7, KCN Khai Quang, Vĩnh Yên, Vĩnh Phúc | --
+32 | Công ty TNHH thép DAEHO VINA | Nhân viên kinh doanh, kỹ thuật | KCN Đại An, TP Hải Dương, Hải Dương | --
+32 | Công ty TNHH thép DAEHO VINA | Nv phát triển thị trường | KCN Đại An, TP Hải Dương, Hải Dương | --
+32 | Công ty cổ phần đầu tư Sao Thăng Long (DST) | Phiên dịch quản lý chất lượng | KCN Bá Thiện II, xã Bá Hiện, H. Bình Xuyên, Vĩnh Phúc | --
+32 | Công ty cổ phần đầu tư Sao Thăng Long (DST) | Phiên dịch phòng nghiên cứu | KCN Bá Thiện II, xã Bá Hiện, H. Bình Xuyên, Vĩnh Phúc | --
+32 | Công ty cổ phần đầu tư Sao Thăng Long (DST) | Phiên dịch sản xuất | KCN Bá Thiện II, xã Bá Hiện, H. Bình Xuyên, Vĩnh Phúc | --
+32 | Công ty cổ phần đầu tư Sao Thăng Long (DST) | Phiên dịch quản lý | KCN Bá Thiện II, xã Bá Hiện, H. Bình Xuyên, Vĩnh Phúc | --
+32 | Công ty TNHH Haivina Kim Lien | Quản lý sản xuất | Cụm CN Nam Giang, xã Nam Giang, Nam Đàn, Nghệ An | --
+32 | Công ty TNHH Haivina Kim Lien | Phiên dịch | Cụm CN Nam Giang, xã Nam Giang, Nam Đàn, Nghệ An | --
+32 | Công ty cổ phần dịch vụ quốc tế Hà Thành (HASECA) | Nhân viên marketing | Tầng 5, tòa nhà New Skyline, Hà Đông, Hà Nội | --
+32 | Công ty cổ phần HYUNDAI ALIMINIUM VINA | Quản lý sản xuất | Đường 32, Khu B, KCN, Phố Nối A, Văn Lâm, Hưng Yên | --
+32 | Công ty cổ phần HYUNDAI ALIMINIUM VINA | Nhân viên văn phòng | Đường 32, Khu B, KCN, Phố Nối A, Văn Lâm, Hưng Yên | --
+32 | Công ty cổ phần HYUNDAI ALIMINIUM VINA | Nv kỹ thuật
+ hiện trường | Đường 32, Khu B, KCN, Phố Nối A, Văn Lâm, Hưng Yên | --
+32 | Công ty TNHh LG Display Việt Nam Hải Phòng | Phiên dịch | Lot E, Trang Due IP, An Duong, Hai Phong | --
+32 | Công ty TNHH NIVINA | Nhân viên
+ kinh doanh | Số 4- BT3, KĐT Trung Văn, Nam Từ Liêm, Hà Nội | --
+32 | Công ty TNHH Cammsys Viet Nam  | Nhân viên kỹ thuật  | KCN Bá Thiện, xã Bá Hiến, Bình Xuyên, Vĩnh Phúc | --
+32 | Công ty TNHH Cammsys Viet Nam  | CNC | KCN Bá Thiện, xã Bá Hiến, Bình Xuyên, Vĩnh Phúc | --
+32 | Công ty TNHH Cammsys Viet Nam  | Phiên dịch tiếng Hàn | KCN Bá Thiện, xã Bá Hiến, Bình Xuyên, Vĩnh Phúc | --
+32 | Công ty TNHH Vina
+ Fly Ash and Concrete  | Kỹ sư | Km 30+400, quốc lộ 18A, Phả Lại, Chí Linh, Hải Dương | --
+32 | Công ty TNHH 
+Crucialtec Vina | R&D | KCN Yên Phong, Long Châu, Yên Phong, Bắc Ninh | --
+32 | Công ty TNHH 
+Crucialtec Vina | Quản lý sản xuất | KCN Yên Phong, Long Châu, Yên Phong, Bắc Ninh | --
+32 | Công ty TNHH 
+Crucialtec Vina | Sản xuất | KCN Yên Phong, Long Châu, Yên Phong, Bắc Ninh | --
+32 | Coway Hanoi | Nv kinh doanh | 142 Đội Cấn, Ba Đình, Hà Nội | --
+32 | Coway Hanoi | Nv quản lý 
+kinh doanh |  | --
+32 | CÔNG TY TNHH VÀ DỊCH VỤ GOLDEN HOUSE  | Nhân viên văn phòng chăm sóc khách hàng | P. 708 tòa nhà 17T10 Đường Nguyễn Thị Định – Trung Hòa Cầu Giây - HN | --
+32 | CÔNG TY TNHH VÀ DỊCH VỤ GOLDEN HOUSE  | Kế toán  | P. 708 tòa nhà 17T10 Đường Nguyễn Thị Định – Trung Hòa Cầu Giây - HN | --
+32 | CÔNG TY TNHH VÀ DỊCH VỤ GOLDEN HOUSE  | Quản lý điều hành  - phiên dịch | P. 708 tòa nhà 17T10 Đường Nguyễn Thị Định – Trung Hòa Cầu Giây - HN | --
+32 | Công ty TNHH Panasonic Industrial Devices Việt Nam | Nhân viên thiết kế sản phẩm | Lô J1-J2 KCN Thăng Long, Đông Anh, HN | --
+32 | Công ty TNHH Panasonic Industrial Devices Việt Nam | Kỹ thuật viên | Lô J1-J2 KCN Thăng Long, Đông Anh, HN | --
+32 | Công ty TNHH Panasonic Industrial Devices Việt Nam | Nhân viên quản lý chất lượng sản phẩm | Lô J1-J2 KCN Thăng Long, Đông Anh, HN | --
+32 | Công ty TNHH Panasonic Industrial Devices Việt Nam | Nhân viên hành chính nhân sự - tiếng Nhật | Lô J1-J2 KCN Thăng Long, Đông Anh, HN | --
+32 | Công ty TNHH Panasonic Industrial Devices Việt Nam | Công nhân kỹ thuật | Lô J1-J2 KCN Thăng Long, Đông Anh, HN | --
+32 | Công ty TNHH Panasonic Industrial Devices Việt Nam | Kỹ thuật viên | Lô J1-J2 KCN Thăng Long, Đông Anh, HN | --
+32 | Công ty TNHH Ricoh Imaging Việt Nam | Nhân viên mua hàng | KCN Sài Đồng B, Long Biên, Hà Nội | --
+32 | Công ty TNHH Ricoh Imaging Việt Nam | Kỹ thuật cơ khí, Cơ - điện tử, điện công nghiệp  | KCN Sài Đồng B, Long Biên, Hà Nội | --
+32 | Công ty TNHH Ricoh Imaging Việt Nam | Lao động phổ thông | KCN Sài Đồng B, Long Biên, Hà Nội | --

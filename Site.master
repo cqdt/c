@@ -1,0 +1,254 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Site.master.cs" Inherits="Site" %>
+
+<%@ Register TagPrefix="radW" Namespace="Telerik.WebControls" Assembly="RadWindow.Net2" %>
+<%@ Register Src="Modules/Controls/Search.ascx" TagName="Search" TagPrefix="uc10" %>
+<%@ Register Src="Modules/Base/BArticles.ascx" TagName="BArticles" TagPrefix="uc9" %>
+<%@ Register Src="Modules/Base/ListTopNewsHome.ascx" TagName="ListTopNewsHome" TagPrefix="uc2" %>
+<%@ Register Src="Modules/Controls/SupportOnline.ascx" TagName="SupportOnline" TagPrefix="uc8" %>
+<%@ Register Src="Modules/Base/Link.ascx" TagName="Link" TagPrefix="uc7" %>
+<%@ Register Src="Modules/Base/Adv.ascx" TagName="Adv" TagPrefix="uc11" %>
+<%@ Register Src="Modules/Controls/Online.ascx" TagName="Online" TagPrefix="uc6" %>
+<%@ Register Src="Modules/Controls/Footer.ascx" TagName="Footer" TagPrefix="uc5" %>
+<%@ Register Src="Modules/Controls/MenuTop.ascx" TagName="MenuTop" TagPrefix="uc4" %>
+<%@ Register Src="Modules/Controls/HotProduct.ascx" TagName="HotProduct" TagPrefix="uc12" %>
+<%@ Register Src="Modules/Base/Banner.ascx" TagName="Banner" TagPrefix="uc3" %>
+<%@ Register Src="Modules/Controls/MenuLeft.ascx" TagName="MenuLeft" TagPrefix="uc1" %>
+<%@ Register Src="Modules/Controls/Lang.ascx" TagName="Lang" TagPrefix="uc15" %>
+<%@ Register Src="Modules/Controls/MenuFooter.ascx" TagName="MenuFooter" TagPrefix="uc15" %>
+<%@ Register Src="Modules/Base/ListMenuProducts.ascx" TagName="ListMenuProducts" TagPrefix="uc14" %>
+<%@ Register Src="Modules/Base/MenuRight.ascx" TagName="MenuRight" TagPrefix="uc20" %>
+<%@ Register Src="Modules/Base/MenuRight1.ascx" TagName="MenuRight1" TagPrefix="uc201" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Trung tâm lao động ngoài nước - Center of Overseas Labor - Colab</title>
+    <link href="Styles/style.css" rel="stylesheet" type="text/css" />  
+    <link rel="stylesheet" href="http://colab.gov.vn/Scripts/coin-slider/coin-slider-styles.css" type="text/css" />
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script type="text/javascript" src="http://colab.gov.vn/Scripts/coin-slider/coin-slider.js"></script>
+    <script type="text/javascript" src="http://colab.gov.vn/Scripts/superfish-1.4.8/js/hoverIntent.js"></script>
+    <script type="text/javascript" src="http://colab.gov.vn/Scripts/superfish-1.4.8/js/superfish.js"></script>
+    <link rel="stylesheet" type="text/css" href="/Scripts/superfish-1.4.8/css/superfish.css"  media="screen"/>
+    <link rel="stylesheet" href="http://fontawesome.io/assets/font-awesome/css/font-awesome.css"/>
+    
+    
+    
+    
+    <script type="text/javascript">
+        jQuery(function () {
+            
+        });
+    </script>
+    <link rel="stylesheet" href="http://colab.gov.vn/Scripts/newslide/vertical.news.slider.css?v=1.0">
+
+    
+</head>
+<body id="body">
+    <form name="frmMain" id="frmMain" runat="server">
+   
+    <div id="container">
+        <div id="screen">
+             
+            <div class="banner" style="background-image:url(<%= Newwind.VQS.URL + "/" + Image_Url %>)">
+                <p class="bolaodong">bộ lao động - thương binh và xã hội</p>
+                <p class="bannertrungtam">trung tâm lao động ngoài nước</p>
+                <p class="colab">Center of Overseas Labour - Colab</p>
+            </div>
+            <div class="menutop">
+                <uc4:MenuTop ID="MenuTop1" runat="server" />
+            </div>
+            <div class="all">
+                
+                <div class="contents">
+                    <script src="<%= Newwind.VQS.URL %>/Styles/jquery.min.js"></script>
+                    <asp:ContentPlaceHolder ID="cphMain" runat="server"></asp:ContentPlaceHolder>
+                    <div class="client_home">
+                        <div class="slide_client">
+                            <asp:Repeater ID="dlClient" runat="server" >
+                        <ItemTemplate>
+                        <a href="<%# Eval("C_LINK") %>">
+		                        <%# CMS.TTV.Web.Utils.CreateLink(Eval("C_IMAGE_FILE_NAME"), 0, 0, 0, "", true)%>
+	                        </a>
+	                        </ItemTemplate>
+                            </asp:Repeater>
+                        </div>
+                    </div>
+                </div>
+                <div class="left sidebar_left 11">
+                  <%--  <div class="bg_search">
+                        <uc10:Search ID="Search1" runat="server" />
+                    </div>--%>
+                    <!--Menu 1-->
+                  <%--   <uc20:MenuRight ID="MenuRight2" MenuID="406" runat="server" />
+                    
+       <uc201:MenuRight1 ID="MenuRight1_1" runat="server" MenuID="434" /> --%>          
+
+  <uc20:MenuRight ID="MenuRight" MenuID="433" runat="server" />
+ <%--<uc201:MenuRight1 ID="MenuRight1" runat="server" MenuID="437" />--%>
+                 
+                    <div class="quangcao">
+                      <asp:Repeater ID="dlRight" runat="server" >
+                        <ItemTemplate>
+                        <a href="<%# Eval("C_LINK") %>">
+		                        <%# CMS.TTV.Web.Utils.CreateLink(Eval("C_IMAGE_FILE_NAME"), 0, 0, 0, "", true)%>
+	                        </a>
+	                        </ItemTemplate>
+                            </asp:Repeater>
+                </div>
+                    <!--
+                    <div class="bg_link">
+                        <span class="a_link"> <%= Newwind.VQS.Getkey("lienketweb")%></span>
+                    </div>       
+                   
+                    <div class="banner_link">
+                    <uc7:Link ID="Link1" runat="server" /></div>
+                     -->
+                    <div class="banner_online">
+                        <div class="title_tk">&nbsp;&nbsp;&nbsp;THỐNG KÊ</div>
+                        <div class="content_tk">
+                            <uc6:Online ID="Online1" runat="server" />
+                        </div>
+                        
+                    </div>
+                    <div class="banner_online">
+                        <div class="title_tk">&nbsp;&nbsp;&nbsp;FANPAGE</div>
+                        <div class="content_tk">
+                            <div id="fb-root"></div>
+                            <script>(function(d, s, id) {
+                              var js, fjs = d.getElementsByTagName(s)[0];
+                              if (d.getElementById(id)) return;
+                              js = d.createElement(s); js.id = id;
+                              js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.10&appId=1203554176363535";
+                              fjs.parentNode.insertBefore(js, fjs);
+                            }(document, 'script', 'facebook-jssdk'));</script>
+                            <div class="fb-page" data-href="https://www.facebook.com/EPSVIETNAM/" data-tabs="timeline" data-height="300" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/EPSVIETNAM/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/EPSVIETNAM/">Văn phòng Quản lý lao động Việt Nam theo chương trình EPS tại Hàn Quốc</a></blockquote></div>
+                            
+                            
+                        </div>
+                        
+                         <div class="title_tk" style="margin-top: 10px;">&nbsp;&nbsp;&nbsp;FANPAGE</div>
+                            <div class="content_tk">
+                          <div class="fb-page" data-href="https://www.facebook.com/colab.dieu.duong.vien/" data-tabs="timeline" data-height="300" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/colab.dieu.duong.vien/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/colab.dieu.duong.vien/">COLAB - Chương trình Điều dưỡng viên đi học tập và làm việc tại CHLB Đức</a></blockquote></div>
+                        </div>
+                        
+                         <div class="title_tk" style="margin-top: 10px;">&nbsp;&nbsp;&nbsp;FANPAGE</div>
+                            <div class="content_tk">
+                          <div class="fb-page" data-href="https://www.facebook.com/thuctapsinh.hoihuong.thanhcong/" data-tabs="timeline" data-height="300" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/colab.dieu.duong.vien/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/colab.dieu.duong.vien/">COLAB - Chương trình Điều dưỡng viên đi học tập và làm việc tại CHLB Đức</a></blockquote></div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="footter" style="background-image:url(<%= Newwind.VQS.URL + "/" + foot %>)">
+                    <uc5:Footer ID="Footer1" runat="server" />
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+     <%-- <script src="Scripts/newslide/vertical.news.slider.js"></script>--%>
+
+    <script type="text/javascript">
+
+
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-71558824-1', 'auto');
+        ga('send', 'pageview');
+
+</script>
+<script src="Styles/jquery.min.js"></script>
+<link rel="stylesheet" href="<%= Newwind.VQS.URL%>/Styles/owl-carousel/owl.carousel-2.0.0.css" type="text/css" />
+    <link rel="stylesheet" href="<%= Newwind.VQS.URL%>/Styles/owl-carousel/owl.theme.css" type="text/css" />
+    <script type="text/javascript" src="<%= Newwind.VQS.URL%>/Styles/owl-carousel/owl.carousel-2.0.0.min.js"></script>
+    <script type="text/javascript" src="<%= Newwind.VQS.URL%>/Styles/owl-carousel/owl.carousel-gen.js"></script>
+    <link rel="stylesheet" href="Styles/jquery-ui-1.12.1/jquery-ui.min.css"/>
+    
+    <script type="text/javascript" src="Styles/jquery-ui-1.12.1/jquery-ui.min.js"></script>
+
+<script>
+$(document).ready(function() {
+    
+jQuery(function ($)
+
+{
+
+  $.datepicker.regional["vi-VN"] =
+
+	{
+
+		closeText: "Đóng",
+
+		prevText: "Trước",
+
+		nextText: "Sau",
+
+		currentText: "Hôm nay",
+
+		monthNames: ["Tháng một", "Tháng hai", "Tháng ba", "Tháng tư", "Tháng năm", "Tháng sáu", "Tháng bảy", "Tháng tám", "Tháng chín", "Tháng mười", "Tháng mười một", "Tháng mười hai"],
+
+		monthNamesShort: ["Một", "Hai", "Ba", "Bốn", "Năm", "Sáu", "Bảy", "Tám", "Chín", "Mười", "Mười một", "Mười hai"],
+
+		dayNames: ["Chủ nhật", "Thứ hai", "Thứ ba", "Thứ tư", "Thứ năm", "Thứ sáu", "Thứ bảy"],
+
+		dayNamesShort: ["CN", "Hai", "Ba", "Tư", "Năm", "Sáu", "Bảy"],
+
+		dayNamesMin: ["CN", "T2", "T3", "T4", "T5", "T6", "T7"],
+
+		weekHeader: "Tuần",
+
+		dateFormat: "dd/mm/yy",
+
+		firstDay: 1,
+
+		isRTL: false,
+
+		showMonthAfterYear: false,
+
+		yearSuffix: ""
+
+	};
+
+
+
+	$.datepicker.setDefaults($.datepicker.regional["vi-VN"]);
+
+});
+    $(".datepicker").datepicker({dateFormat:"dd/mm/yy"});
+    
+  //$("#leftID").owlCarousel();
+
+});
+$('.sidebar_left').on('click','.btn_subleft',function(){
+    $('.sub_left').slideUp();
+    var id = $(this).attr("leftID");
+    $('.sub_left'+id+'').slideDown();
+});
+
+
+
+</script>
+<style>
+    .hidden{
+        display:none !important;
+    }
+    .hokhau{
+        width:210px !important;
+    }
+    .img_24{
+        background-color:#ddd;
+    }
+    .bg_title_cate{
+        width:100%;
+    }
+</style>
+</form>   
+</body>
+</html>

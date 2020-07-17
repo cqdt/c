@@ -1,0 +1,142 @@
+using System;
+using System.Data;
+using System.Configuration;
+using System.Collections;
+using System.Web;
+using System.Web.Security;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Web.UI.WebControls.WebParts;
+using System.Web.UI.HtmlControls;
+
+public partial class Modules_Controls_MenuLeft : System.Web.UI.UserControl
+{
+    public string strHTMLMenu = "";
+
+    private int _MenuID = -1;
+    public int MenuID
+    {
+        set { _MenuID = value; }
+        get { return _MenuID; }
+    }
+
+    private bool _AutoLang = false;
+    public bool AutoLang
+    {
+        set { _AutoLang = value; }
+        get { return _AutoLang; }
+    }
+
+    int mID = 0;
+
+    bool CheckParent(DataTable dtMenus, int ParentID, int MenuID)
+    {
+        if (ParentID == MenuID) return true;
+        DataRow[] dr = dtMenus.Select("PK_MENU=" + MenuID);
+        if (dr.Length > 0)
+        {
+            int iPrentID = CMS.Utils.ToInteger(dr[0]["C_PARENT"]);
+            if (iPrentID == ParentID) return true;
+            else return CheckParent(dtMenus, ParentID, iPrentID);
+        }
+        return false;
+    }
+
+    bool CheckMenu(int MenuID)
+        {
+            string sql = "select PK_MENU from T_MENU where C_STATUS=1 and C_PARENT ="+ MenuID;
+            int recode = CMS.MsSql.ExecuteToInt(sql);
+            if (recode > 0) return true;
+            else return false;
+        }
+
+    void GetMenus(DataTable dtMenus, int Parent)
+    {
+        DataRow[] drs = dtMenus.Select("C_PARENT=" + Parent, "C_ORDER");
+        for (int i = 0; i < drs.Length; i++)
+        {
+            int iMenuID = (int)drs[i]["PK_MENU"];
+            string strName = drs[i]["C_NAME"].ToString();
+            DataRow[] dr = dtMenus.Select("C_PARENT=" + iMenuID);
+            if (dr.Length > 0)
+            {
+                strHTMLMenu += "<tr>";
+                strHTMLMenu += "<td align=\"left\" width=\"209\" height=\"27\" background=\"images/Index2_27.gif\">";
+                strHTMLMenu += "<table width=\"100%\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" >";
+                strHTMLMenu += "<tr>";
+                strHTMLMenu += "<td width=\"25\">&nbsp;</td>";
+                strHTMLMenu += "<td><a class=\"left_menu_sub\" href=\"Default.aspx?ctl=Introduce&mID=" + iMenuID + "\" >" + strName + "</a></td>";
+                strHTMLMenu += "</tr>";
+                strHTMLMenu += "</table>";
+                strHTMLMenu += "</td>";
+                strHTMLMenu += "</tr>";
+            }
+            else
+            {
+                strHTMLMenu += "<tr>";
+                strHTMLMenu += "<td align=\"left\" width=\"209\" height=\"27\" background=\"images/Index2_27.gif\">";
+                strHTMLMenu += "<table width=\"100%\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" >";
+                strHTMLMenu += "<tr>";
+                strHTMLMenu += "<td width=\"25\">&nbsp;</td>";
+                strHTMLMenu += "<td><a class=\"left_menu_sub\" href=\"Default.aspx?ctl=Introduce&mID=" + iMenuID + "\" >" + strName + "</a></td>";
+                strHTMLMenu += "</tr>";
+                strHTMLMenu += "</table>";                  
+                strHTMLMenu += "</td>";
+                strHTMLMenu += "</tr>";
+            }
+        }
+    } 
+
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        
+        
+            mID = CMS.TTV.Web.Utils.GetIntFromQueryString("mID", -1);
+            int _iMenuID = _MenuID;
+            if (_AutoLang && _MenuID > 0)
+            {
+                int iLangID = CMS.Lang.LangValue;
+                if (iLangID != 1) _iMenuID = CMS.TTV.Web.Menu.GetMenuIDFromMenuID(_MenuID, iLangID);
+            }
+
+            DataTable dtMenus = CMS.SqlCache.FillDataTable("SELECT PK_MENU,C_NAME,C_PARENT,C_ORDER FROM T_MENU WHERE C_STATUS=1 AND C_TYPE='ARTICLE'");
+            DataRow[] drs = dtMenus.Select("C_PARENT=" + _iMenuID, "C_ORDER");                
+       
+            for (int i = 0; i < drs.Length; i++)
+            {
+                int iMenuID = (int)drs[i]["PK_MENU"];
+                string strName = drs[i]["C_NAME"].ToString();             
+               
+                strHTMLMenu +="<tr>";
+                if (iMenuID == mID)
+                {
+                    if (CheckMenu(iMenuID)) strHTMLMenu += "<td align=\"left\" class=\"bg_menu_left_chil_selected\" height=\"44\" width=\"209\">";
+                    else strHTMLMenu += "<td align=\"left\" height=\"27\" width=\"209\" class=\"bg_menu_left_selected\">";
+                }
+                else
+                {
+                    if (CheckMenu(iMenuID)) strHTMLMenu += "<td align=\"left\" class=\"bg_menu_left_chil\" height=\"44\" width=\"209\">";
+                    else strHTMLMenu += "<td align=\"left\" height=\"27\" width=\"209\" class=\"bg_menu_left\">";
+                }
+                strHTMLMenu += "<table width=\"100%\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" >";
+                strHTMLMenu += "<tr>"; 
+                strHTMLMenu += "<td width=\"8\">&nbsp;</td>";
+                strHTMLMenu += "<td onmouseover=\"expand(this,0);\" onmouseout=\"collapse(this,0);\">";                    
+                strHTMLMenu += "<div class=\"menuNormal\"><table width=\"0\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">";
+                    GetMenus(dtMenus, iMenuID);
+                strHTMLMenu += "</table></div>";
+                strHTMLMenu += "<a class=\"menu_left\" href=\"Default.aspx?ctl=Introduce&mID=" + iMenuID + "\" >" + strName + "</a></td>";
+                strHTMLMenu += "</tr>";
+                strHTMLMenu +="</table>";                
+                strHTMLMenu += "</td>";
+                strHTMLMenu +="</tr>";                 
+
+                //GetMenus(dtMenus, iMenuID);
+                if (CheckParent(dtMenus, iMenuID, mID)) 
+                {
+                    GetMenus(dtMenus, iMenuID);
+                }   
+            }
+        
+    }
+}

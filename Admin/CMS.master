@@ -1,0 +1,38 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="CMS.master.cs" Inherits="Admin_CMS" %>
+<%@ Register Src="Controls/MenuTop.ascx" TagName="MenuTop" TagPrefix="uc1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>Administrator</title>
+    <link href="Styles/Styles.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<form id="form1" runat="server">
+	<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" class="border">
+		<tr>
+			<td>
+			    <img src="images/banner.jpg" width="100%" height="88" alt="" />			   
+			</td>
+		</tr>
+		<tr>
+			<td height="29" align="right" bgcolor="#ADC9F7">
+				 <uc1:MenuTop ID="MenuTop1" runat="server" />
+			</td>
+		</tr>
+		<tr>
+			<td valign="top">
+					<asp:contentplaceholder id="cphCMS" runat="server"></asp:contentplaceholder>
+					<br />
+			</td>
+		</tr>
+		<tr>
+			<td height="47" align="center" background="images/footer.jpg">
+			   © Coppyright 2009, by <a href="#">Colab</a> All rights reserved. 
+			</td>
+		</tr>
+	</table>
+</form>
+</body>
+</html>

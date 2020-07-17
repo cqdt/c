@@ -1,0 +1,39 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="test.master.cs" Inherits="test" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <div class="quangcao">
+                      <asp:Repeater ID="dlRight" runat="server" >
+                        <ItemTemplate>
+                        <a href="<%# Eval("C_LINK") %>">
+		                        <%# CMS.TTV.Web.Utils.CreateLink(Eval("C_IMAGE_FILE_NAME"), 0, 0, 0, "", true)%>
+	                        </a>
+	                        </ItemTemplate>
+                            </asp:Repeater>
+                </div>
+    <form id="form1" runat="server">
+    <div class="contents">
+                    <script src="<%= Newwind.VQS.URL %>/Styles/jquery.min.js"></script>
+                    <asp:ContentPlaceHolder ID="cphMain" runat="server"></asp:ContentPlaceHolder>
+                    <div class="client_home">
+                        <div class="slide_client">
+                            <asp:Repeater ID="dlClient" runat="server" >
+                        <ItemTemplate>
+                        <a href="<%# Eval("C_LINK") %>">
+		                        <%# CMS.TTV.Web.Utils.CreateLink(Eval("C_IMAGE_FILE_NAME"), 0, 0, 0, "", true)%>
+	                        </a>
+	                        </ItemTemplate>
+                            </asp:Repeater>
+                        </div>
+                    </div>
+                </div>
+    </form>
+</body>
+</html>

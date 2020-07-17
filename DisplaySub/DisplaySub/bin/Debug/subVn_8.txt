@@ -1,0 +1,3 @@
+8
+00:00:17.0340000-->00:00:17.0340000
+ Nếu f(x0, y0) là giá trị cực đại của f(x, y) cho bài toán giới hạn ban đầu, thì tồn tại λ0 sao cho (x0, y0, λ0) là một điểm dừng của hàm Lagrange (điểm dừng là những điểm mà đạo hàm riêng của nó theo Λ bằng 0)

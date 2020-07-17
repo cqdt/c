@@ -1,0 +1,4 @@
+1
+00:00:00,000-->00:00:30,844
+Trong ngành tối ưu hóa, phương pháp nhân tử Lagrange (đặt theo tên của nhà toán học Joseph Louis Lagrange[1]) là một phương pháp để tìm cực tiểu hoặc cực đại địa phương của một hàm số chịu các điều kiện giới hạn
+

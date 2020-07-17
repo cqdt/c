@@ -1,0 +1,3 @@
+4
+00:00:09.4030000-->00:00:09.4030000
+Chúng ta cần f và g đều phải thỏa mãn là chúng liên tục tại đạo hàm riêng bậc nhất của chúng

@@ -1,0 +1,12 @@
+c:\users\admin\documents\visual studio 2015\Projects\DisplaySub\DisplaySub\obj\Debug\DisplaySubSharp.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\DisplaySub\DisplaySub\obj\Debug\DisplaySub.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\DisplaySub\DisplaySub\obj\Debug\DisplaySub.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\DisplaySub\DisplaySub\obj\Debug\DisplaySubSharp.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\DisplaySub\DisplaySub\obj\Debug\DisplaySub.exe
+c:\users\admin\documents\visual studio 2015\Projects\DisplaySub\DisplaySub\obj\Debug\DisplaySub.pdb
+c:\users\admin\documents\visual studio 2015\Projects\DisplaySub\DisplaySub\bin\DisplaySub.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\DisplaySub\DisplaySub\bin\DisplaySub.exe
+c:\users\admin\documents\visual studio 2015\Projects\DisplaySub\DisplaySub\bin\DisplaySub.pdb
+c:\users\admin\documents\visual studio 2015\Projects\DisplaySub\bin\DisplaySub.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DisplaySub\bin\DisplaySub.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DisplaySub\bin\DisplaySub.pdb

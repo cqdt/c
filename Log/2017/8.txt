@@ -1,0 +1,270 @@
+Thời gian lỗi : 8/31/2017 10:49:45 PM  
+IP : 113.23.26.176
+Đường dẫn : http://chungthuchanghoa.com/Default.aspx?c=register-business-info
+Nội dung lỗi : The relative virtual path 'Footer.ascx' is not allowed here.System.Web   at System.Web.VirtualPath.FailIfRelativePath()
+   at System.Web.VirtualPath.get_Parent()
+   at System.Web.Compilation.LocalResXResourceProvider.GetLocalResourceAssembly()
+   at System.Web.Compilation.LocalResXResourceProvider.CreateResourceManager()
+   at System.Web.Compilation.BaseResXResourceProvider.EnsureResourceManager()
+   at System.Web.Compilation.BaseResXResourceProvider.GetObject(String resourceKey, CultureInfo culture)
+   at System.Web.Compilation.ResourceExpressionBuilder.GetResourceObject(IResourceProvider resourceProvider, String resourceKey, CultureInfo culture, Type objType, String propName)
+   at System.Web.HttpContext.GetLocalResourceObject(String virtualPath, String resourceKey, CultureInfo culture)
+   at System.Web.HttpContext.GetLocalResourceObject(String virtualPath, String resourceKey)
+   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 8/31/2017 10:49:45 PM  
+IP : 113.23.26.176
+Đường dẫn : http://chungthuchanghoa.com/Default.aspx?c=register-business-info
+Nội dung lỗi : The relative virtual path 'Footer.ascx' is not allowed here.System.Web   at System.Web.VirtualPath.FailIfRelativePath()
+   at System.Web.VirtualPath.get_Parent()
+   at System.Web.Compilation.LocalResXResourceProvider.GetLocalResourceAssembly()
+   at System.Web.Compilation.LocalResXResourceProvider.CreateResourceManager()
+   at System.Web.Compilation.BaseResXResourceProvider.EnsureResourceManager()
+   at System.Web.Compilation.BaseResXResourceProvider.GetObject(String resourceKey, CultureInfo culture)
+   at System.Web.Compilation.ResourceExpressionBuilder.GetResourceObject(IResourceProvider resourceProvider, String resourceKey, CultureInfo culture, Type objType, String propName)
+   at System.Web.HttpContext.GetLocalResourceObject(String virtualPath, String resourceKey, CultureInfo culture)
+   at System.Web.HttpContext.GetLocalResourceObject(String virtualPath, String resourceKey)
+   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 8/31/2017 10:50:31 PM  
+IP : 27.73.53.166
+Đường dẫn : http://chungthuchanghoa.com/Default.aspx?c=timviec
+Nội dung lỗi : The relative virtual path 'Footer.ascx' is not allowed here.System.Web   at System.Web.VirtualPath.FailIfRelativePath()
+   at System.Web.VirtualPath.get_Parent()
+   at System.Web.Compilation.LocalResXResourceProvider.GetLocalResourceAssembly()
+   at System.Web.Compilation.LocalResXResourceProvider.CreateResourceManager()
+   at System.Web.Compilation.BaseResXResourceProvider.EnsureResourceManager()
+   at System.Web.Compilation.BaseResXResourceProvider.GetObject(String resourceKey, CultureInfo culture)
+   at System.Web.Compilation.ResourceExpressionBuilder.GetResourceObject(IResourceProvider resourceProvider, String resourceKey, CultureInfo culture, Type objType, String propName)
+   at System.Web.HttpContext.GetLocalResourceObject(String virtualPath, String resourceKey, CultureInfo culture)
+   at System.Web.HttpContext.GetLocalResourceObject(String virtualPath, String resourceKey)
+   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 8/31/2017 10:50:31 PM  
+IP : 27.73.53.166
+Đường dẫn : http://chungthuchanghoa.com/Default.aspx?c=timviec
+Nội dung lỗi : The relative virtual path 'Footer.ascx' is not allowed here.System.Web   at System.Web.VirtualPath.FailIfRelativePath()
+   at System.Web.VirtualPath.get_Parent()
+   at System.Web.Compilation.LocalResXResourceProvider.GetLocalResourceAssembly()
+   at System.Web.Compilation.LocalResXResourceProvider.CreateResourceManager()
+   at System.Web.Compilation.BaseResXResourceProvider.EnsureResourceManager()
+   at System.Web.Compilation.BaseResXResourceProvider.GetObject(String resourceKey, CultureInfo culture)
+   at System.Web.Compilation.ResourceExpressionBuilder.GetResourceObject(IResourceProvider resourceProvider, String resourceKey, CultureInfo culture, Type objType, String propName)
+   at System.Web.HttpContext.GetLocalResourceObject(String virtualPath, String resourceKey, CultureInfo culture)
+   at System.Web.HttpContext.GetLocalResourceObject(String virtualPath, String resourceKey)
+   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 8/31/2017 10:50:48 PM  
+IP : 113.23.26.176
+Đường dẫn : http://chungthuchanghoa.com/Default.aspx
+Nội dung lỗi : The relative virtual path 'Footer.ascx' is not allowed here.System.Web   at System.Web.VirtualPath.FailIfRelativePath()
+   at System.Web.VirtualPath.get_Parent()
+   at System.Web.Compilation.LocalResXResourceProvider.GetLocalResourceAssembly()
+   at System.Web.Compilation.LocalResXResourceProvider.CreateResourceManager()
+   at System.Web.Compilation.BaseResXResourceProvider.EnsureResourceManager()
+   at System.Web.Compilation.BaseResXResourceProvider.GetObject(String resourceKey, CultureInfo culture)
+   at System.Web.Compilation.ResourceExpressionBuilder.GetResourceObject(IResourceProvider resourceProvider, String resourceKey, CultureInfo culture, Type objType, String propName)
+   at System.Web.HttpContext.GetLocalResourceObject(String virtualPath, String resourceKey, CultureInfo culture)
+   at System.Web.HttpContext.GetLocalResourceObject(String virtualPath, String resourceKey)
+   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 8/31/2017 10:50:48 PM  
+IP : 113.23.26.176
+Đường dẫn : http://chungthuchanghoa.com/Default.aspx
+Nội dung lỗi : The relative virtual path 'Footer.ascx' is not allowed here.System.Web   at System.Web.VirtualPath.FailIfRelativePath()
+   at System.Web.VirtualPath.get_Parent()
+   at System.Web.Compilation.LocalResXResourceProvider.GetLocalResourceAssembly()
+   at System.Web.Compilation.LocalResXResourceProvider.CreateResourceManager()
+   at System.Web.Compilation.BaseResXResourceProvider.EnsureResourceManager()
+   at System.Web.Compilation.BaseResXResourceProvider.GetObject(String resourceKey, CultureInfo culture)
+   at System.Web.Compilation.ResourceExpressionBuilder.GetResourceObject(IResourceProvider resourceProvider, String resourceKey, CultureInfo culture, Type objType, String propName)
+   at System.Web.HttpContext.GetLocalResourceObject(String virtualPath, String resourceKey, CultureInfo culture)
+   at System.Web.HttpContext.GetLocalResourceObject(String virtualPath, String resourceKey)
+   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 8/31/2017 10:51:19 PM  
+IP : 113.23.26.176
+Đường dẫn : http://chungthuchanghoa.com/Default.aspx?c=timviec
+Nội dung lỗi : The relative virtual path 'Footer.ascx' is not allowed here.System.Web   at System.Web.VirtualPath.FailIfRelativePath()
+   at System.Web.VirtualPath.get_Parent()
+   at System.Web.Compilation.LocalResXResourceProvider.GetLocalResourceAssembly()
+   at System.Web.Compilation.LocalResXResourceProvider.CreateResourceManager()
+   at System.Web.Compilation.BaseResXResourceProvider.EnsureResourceManager()
+   at System.Web.Compilation.BaseResXResourceProvider.GetObject(String resourceKey, CultureInfo culture)
+   at System.Web.Compilation.ResourceExpressionBuilder.GetResourceObject(IResourceProvider resourceProvider, String resourceKey, CultureInfo culture, Type objType, String propName)
+   at System.Web.HttpContext.GetLocalResourceObject(String virtualPath, String resourceKey, CultureInfo culture)
+   at System.Web.HttpContext.GetLocalResourceObject(String virtualPath, String resourceKey)
+   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 8/31/2017 10:51:19 PM  
+IP : 113.23.26.176
+Đường dẫn : http://chungthuchanghoa.com/Default.aspx?c=timviec
+Nội dung lỗi : The relative virtual path 'Footer.ascx' is not allowed here.System.Web   at System.Web.VirtualPath.FailIfRelativePath()
+   at System.Web.VirtualPath.get_Parent()
+   at System.Web.Compilation.LocalResXResourceProvider.GetLocalResourceAssembly()
+   at System.Web.Compilation.LocalResXResourceProvider.CreateResourceManager()
+   at System.Web.Compilation.BaseResXResourceProvider.EnsureResourceManager()
+   at System.Web.Compilation.BaseResXResourceProvider.GetObject(String resourceKey, CultureInfo culture)
+   at System.Web.Compilation.ResourceExpressionBuilder.GetResourceObject(IResourceProvider resourceProvider, String resourceKey, CultureInfo culture, Type objType, String propName)
+   at System.Web.HttpContext.GetLocalResourceObject(String virtualPath, String resourceKey, CultureInfo culture)
+   at System.Web.HttpContext.GetLocalResourceObject(String virtualPath, String resourceKey)
+   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 8/31/2017 10:51:49 PM  
+IP : 27.73.53.166
+Đường dẫn : http://chungthuchanghoa.com/Default.aspx?c=findworker
+Nội dung lỗi : The relative virtual path 'Footer.ascx' is not allowed here.System.Web   at System.Web.VirtualPath.FailIfRelativePath()
+   at System.Web.VirtualPath.get_Parent()
+   at System.Web.Compilation.LocalResXResourceProvider.GetLocalResourceAssembly()
+   at System.Web.Compilation.LocalResXResourceProvider.CreateResourceManager()
+   at System.Web.Compilation.BaseResXResourceProvider.EnsureResourceManager()
+   at System.Web.Compilation.BaseResXResourceProvider.GetObject(String resourceKey, CultureInfo culture)
+   at System.Web.Compilation.ResourceExpressionBuilder.GetResourceObject(IResourceProvider resourceProvider, String resourceKey, CultureInfo culture, Type objType, String propName)
+   at System.Web.HttpContext.GetLocalResourceObject(String virtualPath, String resourceKey, CultureInfo culture)
+   at System.Web.HttpContext.GetLocalResourceObject(String virtualPath, String resourceKey)
+   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 8/31/2017 10:51:49 PM  
+IP : 27.73.53.166
+Đường dẫn : http://chungthuchanghoa.com/Default.aspx?c=findworker
+Nội dung lỗi : The relative virtual path 'Footer.ascx' is not allowed here.System.Web   at System.Web.VirtualPath.FailIfRelativePath()
+   at System.Web.VirtualPath.get_Parent()
+   at System.Web.Compilation.LocalResXResourceProvider.GetLocalResourceAssembly()
+   at System.Web.Compilation.LocalResXResourceProvider.CreateResourceManager()
+   at System.Web.Compilation.BaseResXResourceProvider.EnsureResourceManager()
+   at System.Web.Compilation.BaseResXResourceProvider.GetObject(String resourceKey, CultureInfo culture)
+   at System.Web.Compilation.ResourceExpressionBuilder.GetResourceObject(IResourceProvider resourceProvider, String resourceKey, CultureInfo culture, Type objType, String propName)
+   at System.Web.HttpContext.GetLocalResourceObject(String virtualPath, String resourceKey, CultureInfo culture)
+   at System.Web.HttpContext.GetLocalResourceObject(String virtualPath, String resourceKey)
+   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 8/31/2017 10:55:55 PM  
+IP : 27.73.53.166
+Đường dẫn : http://chungthuchanghoa.com/Default.aspx?c=timviec
+Nội dung lỗi : The relative virtual path 'Footer.ascx' is not allowed here.System.Web   at System.Web.VirtualPath.FailIfRelativePath()
+   at System.Web.VirtualPath.get_Parent()
+   at System.Web.Compilation.LocalResXResourceProvider.GetLocalResourceAssembly()
+   at System.Web.Compilation.LocalResXResourceProvider.CreateResourceManager()
+   at System.Web.Compilation.BaseResXResourceProvider.EnsureResourceManager()
+   at System.Web.Compilation.BaseResXResourceProvider.GetObject(String resourceKey, CultureInfo culture)
+   at System.Web.Compilation.ResourceExpressionBuilder.GetResourceObject(IResourceProvider resourceProvider, String resourceKey, CultureInfo culture, Type objType, String propName)
+   at System.Web.HttpContext.GetLocalResourceObject(String virtualPath, String resourceKey, CultureInfo culture)
+   at System.Web.HttpContext.GetLocalResourceObject(String virtualPath, String resourceKey)
+   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 8/31/2017 10:55:55 PM  
+IP : 27.73.53.166
+Đường dẫn : http://chungthuchanghoa.com/Default.aspx?c=timviec
+Nội dung lỗi : The relative virtual path 'Footer.ascx' is not allowed here.System.Web   at System.Web.VirtualPath.FailIfRelativePath()
+   at System.Web.VirtualPath.get_Parent()
+   at System.Web.Compilation.LocalResXResourceProvider.GetLocalResourceAssembly()
+   at System.Web.Compilation.LocalResXResourceProvider.CreateResourceManager()
+   at System.Web.Compilation.BaseResXResourceProvider.EnsureResourceManager()
+   at System.Web.Compilation.BaseResXResourceProvider.GetObject(String resourceKey, CultureInfo culture)
+   at System.Web.Compilation.ResourceExpressionBuilder.GetResourceObject(IResourceProvider resourceProvider, String resourceKey, CultureInfo culture, Type objType, String propName)
+   at System.Web.HttpContext.GetLocalResourceObject(String virtualPath, String resourceKey, CultureInfo culture)
+   at System.Web.HttpContext.GetLocalResourceObject(String virtualPath, String resourceKey)
+   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 8/31/2017 10:56:05 PM  
+IP : 113.23.26.176
+Đường dẫn : http://chungthuchanghoa.com/Default.aspx?c=findworker
+Nội dung lỗi : The relative virtual path 'Footer.ascx' is not allowed here.System.Web   at System.Web.VirtualPath.FailIfRelativePath()
+   at System.Web.VirtualPath.get_Parent()
+   at System.Web.Compilation.LocalResXResourceProvider.GetLocalResourceAssembly()
+   at System.Web.Compilation.LocalResXResourceProvider.CreateResourceManager()
+   at System.Web.Compilation.BaseResXResourceProvider.EnsureResourceManager()
+   at System.Web.Compilation.BaseResXResourceProvider.GetObject(String resourceKey, CultureInfo culture)
+   at System.Web.Compilation.ResourceExpressionBuilder.GetResourceObject(IResourceProvider resourceProvider, String resourceKey, CultureInfo culture, Type objType, String propName)
+   at System.Web.HttpContext.GetLocalResourceObject(String virtualPath, String resourceKey, CultureInfo culture)
+   at System.Web.HttpContext.GetLocalResourceObject(String virtualPath, String resourceKey)
+   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 8/31/2017 10:56:05 PM  
+IP : 113.23.26.176
+Đường dẫn : http://chungthuchanghoa.com/Default.aspx?c=findworker
+Nội dung lỗi : The relative virtual path 'Footer.ascx' is not allowed here.System.Web   at System.Web.VirtualPath.FailIfRelativePath()
+   at System.Web.VirtualPath.get_Parent()
+   at System.Web.Compilation.LocalResXResourceProvider.GetLocalResourceAssembly()
+   at System.Web.Compilation.LocalResXResourceProvider.CreateResourceManager()
+   at System.Web.Compilation.BaseResXResourceProvider.EnsureResourceManager()
+   at System.Web.Compilation.BaseResXResourceProvider.GetObject(String resourceKey, CultureInfo culture)
+   at System.Web.Compilation.ResourceExpressionBuilder.GetResourceObject(IResourceProvider resourceProvider, String resourceKey, CultureInfo culture, Type objType, String propName)
+   at System.Web.HttpContext.GetLocalResourceObject(String virtualPath, String resourceKey, CultureInfo culture)
+   at System.Web.HttpContext.GetLocalResourceObject(String virtualPath, String resourceKey)
+   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 8/31/2017 10:56:48 PM  
+IP : 27.73.53.166
+Đường dẫn : http://chungthuchanghoa.com/Default.aspx?c=dang-ky-thong-tin-tim-viec
+Nội dung lỗi : The relative virtual path 'Footer.ascx' is not allowed here.System.Web   at System.Web.VirtualPath.FailIfRelativePath()
+   at System.Web.VirtualPath.get_Parent()
+   at System.Web.Compilation.LocalResXResourceProvider.GetLocalResourceAssembly()
+   at System.Web.Compilation.LocalResXResourceProvider.CreateResourceManager()
+   at System.Web.Compilation.BaseResXResourceProvider.EnsureResourceManager()
+   at System.Web.Compilation.BaseResXResourceProvider.GetObject(String resourceKey, CultureInfo culture)
+   at System.Web.Compilation.ResourceExpressionBuilder.GetResourceObject(IResourceProvider resourceProvider, String resourceKey, CultureInfo culture, Type objType, String propName)
+   at System.Web.HttpContext.GetLocalResourceObject(String virtualPath, String resourceKey, CultureInfo culture)
+   at System.Web.HttpContext.GetLocalResourceObject(String virtualPath, String resourceKey)
+   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 8/31/2017 10:56:48 PM  
+IP : 27.73.53.166
+Đường dẫn : http://chungthuchanghoa.com/Default.aspx?c=dang-ky-thong-tin-tim-viec
+Nội dung lỗi : The relative virtual path 'Footer.ascx' is not allowed here.System.Web   at System.Web.VirtualPath.FailIfRelativePath()
+   at System.Web.VirtualPath.get_Parent()
+   at System.Web.Compilation.LocalResXResourceProvider.GetLocalResourceAssembly()
+   at System.Web.Compilation.LocalResXResourceProvider.CreateResourceManager()
+   at System.Web.Compilation.BaseResXResourceProvider.EnsureResourceManager()
+   at System.Web.Compilation.BaseResXResourceProvider.GetObject(String resourceKey, CultureInfo culture)
+   at System.Web.Compilation.ResourceExpressionBuilder.GetResourceObject(IResourceProvider resourceProvider, String resourceKey, CultureInfo culture, Type objType, String propName)
+   at System.Web.HttpContext.GetLocalResourceObject(String virtualPath, String resourceKey, CultureInfo culture)
+   at System.Web.HttpContext.GetLocalResourceObject(String virtualPath, String resourceKey)
+   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 8/31/2017 11:12:44 PM  
+IP : 27.73.53.166
+Đường dẫn : http://chungthuchanghoa.com/Default.aspx
+Nội dung lỗi : The relative virtual path 'Footer.ascx' is not allowed here.System.Web   at System.Web.VirtualPath.FailIfRelativePath()
+   at System.Web.VirtualPath.get_Parent()
+   at System.Web.Compilation.LocalResXResourceProvider.GetLocalResourceAssembly()
+   at System.Web.Compilation.LocalResXResourceProvider.CreateResourceManager()
+   at System.Web.Compilation.BaseResXResourceProvider.EnsureResourceManager()
+   at System.Web.Compilation.BaseResXResourceProvider.GetObject(String resourceKey, CultureInfo culture)
+   at System.Web.Compilation.ResourceExpressionBuilder.GetResourceObject(IResourceProvider resourceProvider, String resourceKey, CultureInfo culture, Type objType, String propName)
+   at System.Web.HttpContext.GetLocalResourceObject(String virtualPath, String resourceKey, CultureInfo culture)
+   at System.Web.HttpContext.GetLocalResourceObject(String virtualPath, String resourceKey)
+   at CMS.Lang.GetKey(String path, String key)
+
+
+Thời gian lỗi : 8/31/2017 11:12:44 PM  
+IP : 27.73.53.166
+Đường dẫn : http://chungthuchanghoa.com/Default.aspx
+Nội dung lỗi : The relative virtual path 'Footer.ascx' is not allowed here.System.Web   at System.Web.VirtualPath.FailIfRelativePath()
+   at System.Web.VirtualPath.get_Parent()
+   at System.Web.Compilation.LocalResXResourceProvider.GetLocalResourceAssembly()
+   at System.Web.Compilation.LocalResXResourceProvider.CreateResourceManager()
+   at System.Web.Compilation.BaseResXResourceProvider.EnsureResourceManager()
+   at System.Web.Compilation.BaseResXResourceProvider.GetObject(String resourceKey, CultureInfo culture)
+   at System.Web.Compilation.ResourceExpressionBuilder.GetResourceObject(IResourceProvider resourceProvider, String resourceKey, CultureInfo culture, Type objType, String propName)
+   at System.Web.HttpContext.GetLocalResourceObject(String virtualPath, String resourceKey, CultureInfo culture)
+   at System.Web.HttpContext.GetLocalResourceObject(String virtualPath, String resourceKey)
+   at CMS.Lang.GetKey(String path, String key)
+
+

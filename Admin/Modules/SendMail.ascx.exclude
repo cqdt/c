@@ -1,0 +1,65 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" Inherits="CMS.TTV.Admin.SendMail" %>
+<%@ Register Assembly="RadEditor.Net2" Namespace="Telerik.WebControls" TagPrefix="radE" %>
+
+<center>
+    <table style="width: 100%">
+        <tr class="GridHeader">
+            <td colspan="2">
+                 Gửi Mail
+            </td>
+        </tr>
+        <tr class="GridAlterItem2">
+            <td style="width: 108px">
+                Tên :
+            </td>
+            <td >
+               <asp:TextBox ID="txtName" runat="server" Width="216px"></asp:TextBox>
+            </td>
+        </tr>
+        <tr class="GridItem2">
+            <td style="width: 108px;">
+                Email của bạn :
+            </td>
+            <td >
+              <asp:TextBox ID="txtFrom" runat="server" Width="215px"></asp:TextBox>
+              <asp:RequiredFieldValidator ID="rfvFrom" runat="server" ControlToValidate="txtFrom" ErrorMessage="Email của bạn không thể rỗng" SetFocusOnError="True" ValidationGroup="SendMailG1" Display="Dynamic">*</asp:RequiredFieldValidator>
+              <asp:RegularExpressionValidator ID="revFrom" runat="server" ControlToValidate="txtFrom" ErrorMessage="Email của bạn sai định dạnh" SetFocusOnError="True" ValidationExpression="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*" ValidationGroup="SendMailG1" Display="Dynamic">*</asp:RegularExpressionValidator>
+            </td>
+        </tr>
+        <tr class="GridAlterItem2">
+            <td style="width: 108px">
+                Gửi đến : 
+            </td>
+            <td >
+               <asp:TextBox ID="txtTo" runat="server" Width="215px"></asp:TextBox>
+               <asp:RequiredFieldValidator ID="rfvTo" runat="server" ControlToValidate="txtTo" ErrorMessage="Email gửi đến không thể rỗng" SetFocusOnError="True" ValidationGroup="SendMailG1" Display="Dynamic">*</asp:RequiredFieldValidator>
+            </td>
+        </tr>
+        <tr class="GridItem2">
+            <td style="width: 108px">
+               Tiêu đề : 
+            </td>
+            <td >
+                 <asp:TextBox ID="txtTitle" runat="server" Width="289px"></asp:TextBox>
+                 <asp:RequiredFieldValidator ID="rfvTitle" runat="server" ControlToValidate="txtTitle" ErrorMessage="Tiêu đề không thể rỗng" SetFocusOnError="True"  ValidationGroup="SendMailG1" Display="Dynamic">*</asp:RequiredFieldValidator>
+            </td>
+        </tr>
+        <tr class="GridAlterItem2">
+            <td style="width: 108px">
+               Nội dung : 
+            </td>
+            <td >
+                <radE:RadEditor ID="radeContent" Width="680px" runat="server" EnableHtmlIndentation="True" ShowSubmitCancelButtons="False" Skin="Default" ToolbarMode="Default" AllowThumbGeneration="True" DeleteDocumentsPaths="~/uploads/Doc/" DeleteFlashPaths="~/uploads/Flash/" DeleteImagesPaths="~/uploads/Image/" DeleteMediaPaths="~/uploads/Media/" DocumentsPaths="~/uploads/Doc/" FlashPaths="~/uploads/Flash/" ImagesPaths="~/uploads/Image/" MediaPaths="~/uploads/Media/" UploadDocumentsPaths="~/uploads/Doc/" UploadFlashPaths="~/uploads/Flash/" UploadImagesPaths="~/uploads/Image/" UploadMediaPaths="~/uploads/Media/" DocumentsFilters="*.doc,*.xls,*.ppt,*.txt">
+                </radE:RadEditor>
+            </td>
+        </tr>
+        <tr class="GridItem2">
+            <td colspan="2" style="text-align:center">
+                <asp:Button ID="btnSendMail" UseSubmitBehavior="false" runat="server" Text="Gửi mail" ValidationGroup="SendMailG1" OnClick="btnSendMail_Click" >
+                </asp:Button>
+            </td>
+        </tr>
+    </table>   
+</center>
+
+<asp:ValidationSummary ID="vsSendMail" ShowSummary="false" HeaderText="Vui lòng kiểm tra lại :" runat="server" ValidationGroup="SendMailG1" ShowMessageBox="True"/>   

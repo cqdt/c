@@ -1,0 +1,931 @@
+Thời gian lỗi : 5/3/2020 3:48:42 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=2&cha=[object+Object]
+Nội dung lỗi : SQL lỗi : Invalid column name 'object Object'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/3/2020 11:24:27 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=15&cha=color:+red
+Nội dung lỗi : SQL lỗi : Incorrect syntax near 'color:'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/3/2020 11:24:28 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=7&cha=MenuTop1_Search1_btnSearch&
+Nội dung lỗi : SQL lỗi : Invalid column name 'MenuTop1_Search1_btnSearch'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/3/2020 11:24:28 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=13&cha=color:+red
+Nội dung lỗi : SQL lỗi : Incorrect syntax near 'color:'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/3/2020 11:24:28 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=20&cha=border-collapse:collapse
+Nội dung lỗi : SQL lỗi : Incorrect syntax near 'collapse:'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/3/2020 11:24:28 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=22&cha=&nbsp
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '='..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/3/2020 11:24:28 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=23&cha=&nbsp
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '='..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/3/2020 11:24:28 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=25&cha=&nbsp
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '='..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/3/2020 11:24:28 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=26&cha=&nbsp
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '='..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/3/2020 11:24:28 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=28&cha=++++++++++++++++++++++++++++++if+(d.getElementById(id))+return
+Nội dung lỗi : SQL lỗi : Incorrect syntax near the keyword 'if'.
+An expression of non-boolean type specified in a context where a condition is expected, near 'return'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/3/2020 11:24:28 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=29&cha=++++++++++++++++++++++++++++++js+=+d.createElement(s)
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '='..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/3/2020 11:24:28 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=30&cha=+js.id+=+id
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '='..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/3/2020 11:24:28 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=31&cha=++++++++++++++++++++++++++++++js.src+=+"//connect.facebook.net/vi_VN/sdk.js
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '='.
+Unclosed quotation mark after the character string '//connect.facebook.net/vi_VN/sdk.js'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/3/2020 11:24:28 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=32&cha=++++++++++++++++++++++++++++++fjs.parentNode.insertBefore(js,+fjs)
+Nội dung lỗi : SQL lỗi : Cannot find either column "fjs" or the user-defined function or aggregate "fjs.parentNode.insertBefore", or the name is ambiguous..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/3/2020 11:24:28 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=33&cha=++++++++++++++++++++++++++++}(document,+'script',+'facebook-jssdk'))
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '}'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/3/2020 11:24:28 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=35&cha=">&nbsp
+Nội dung lỗi : SQL lỗi : Unclosed quotation mark after the character string '>'.
+Incorrect syntax near '>'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/3/2020 11:24:28 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=36&cha=&nbsp
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '='..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/3/2020 11:24:28 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=37&cha=&nbsp
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '='..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/3/2020 11:24:28 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=39&cha=">&nbsp
+Nội dung lỗi : SQL lỗi : Unclosed quotation mark after the character string '>'.
+Incorrect syntax near '>'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/3/2020 11:24:28 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=40&cha=&nbsp
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '='..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/3/2020 11:24:28 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=41&cha=&nbsp
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '='..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/3/2020 11:24:28 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=43&cha=+i[r]+=+i[r]+||+function+()+{++++++++++++++++(i[r].q+=+i[r].q+||+[]).push(arguments)++++++++++++},+i[r].l+=+1+*+new+Date()
+Nội dung lỗi : SQL lỗi : Incorrect syntax near 'r'.
+An object or column name is missing or empty. For SELECT INTO statements, verify each column has a name. For other statements, look for empty alias names. Aliases defined as "" or [] are not allowed. Change the alias to a valid name..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/3/2020 11:24:28 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=44&cha=+a+=+s.createElement(o),++m+=+s.getElementsByTagName(o)[0]
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '='..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/3/2020 11:24:28 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=45&cha=+a.async+=+1
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '='..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/3/2020 11:24:28 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=46&cha=+a.src+=+g
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '='..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/3/2020 11:24:28 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=47&cha=+m.parentNode.insertBefore(a,+m)++++++++})(window,+document,+'script',+'//www.google-analytics.com/analytics.js',+'ga')
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '}'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/3/2020 11:24:28 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=48&cha=++++++++ga('create',+'UA-71558824-1',+'auto')
+Nội dung lỗi : SQL lỗi : 'ga' is not a recognized built-in function name..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/3/2020 11:24:28 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=49&cha=++++++++ga('send',+'pageview')
+Nội dung lỗi : SQL lỗi : 'ga' is not a recognized built-in function name..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/3/2020 11:24:28 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=51&cha=$.datepicker.setDefaults($.datepicker.regional["vi-VN"])
+Nội dung lỗi : SQL lỗi : Incorrect syntax near 'datepicker'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/3/2020 11:24:28 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=52&cha=})
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '}'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/3/2020 11:24:28 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=53&cha=++++$(".datepicker").datepicker({dateFormat:"dd/mm/yy"})
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '.datepicker'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/3/2020 11:24:28 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=54&cha=++++++$("
+Nội dung lỗi : SQL lỗi : An object or column name is missing or empty. For SELECT INTO statements, verify each column has a name. For other statements, look for empty alias names. Aliases defined as "" or [] are not allowed. Change the alias to a valid name.
+Unclosed quotation mark after the character string ''.
+Incorrect syntax near ''..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/3/2020 11:24:28 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=55&cha=})
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '}'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/3/2020 11:24:28 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=56&cha=$('.sidebar_left').on('click','.btn_subleft',function(){++++$('.sub_left').slideUp()
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '.sidebar_left'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/3/2020 11:24:28 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=57&cha=++++var+id+=+$(this).attr("leftID")
+Nội dung lỗi : SQL lỗi : Incorrect syntax near 'id'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/3/2020 11:24:28 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=58&cha=++++$('.sub_left'+id+'').slideDown()
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '.sub_left'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/3/2020 11:24:28 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=59&cha=})
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '}'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/3/2020 11:24:28 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=61&cha=++++}++++.hokhau{++++++++width:210px+!important
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '}'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/3/2020 11:24:28 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=65&cha=if+(!theForm)+{++++theForm+=+document.frmMain
+Nội dung lỗi : SQL lỗi : Incorrect syntax near the keyword 'if'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/3/2020 11:24:29 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=66&cha=}function+__doPostBack(eventTarget,+eventArgument)+{++++if+(!theForm.onsubmit+||+(theForm.onsubmit()+!=+false))+{++++++++theForm.__EVENTTARGET.value+=+eventTarget
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '}'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/3/2020 11:24:29 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=67&cha=++++++++theForm.__EVENTARGUMENT.value+=+eventArgument
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '='..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/3/2020 11:24:29 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=68&cha=++++++++theForm.submit()
+Nội dung lỗi : SQL lỗi : Cannot find either column "theForm" or the user-defined function or aggregate "theForm.submit", or the name is ambiguous..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/3/2020 11:24:29 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=11&cha=color:+red
+Nội dung lỗi : SQL lỗi : Incorrect syntax near 'color:'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/3/2020 11:24:29 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=17&cha=color:+red
+Nội dung lỗi : SQL lỗi : Incorrect syntax near 'color:'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/3/2020 11:24:29 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=get&cap=62&cha=++++}++++.img_24{++++++++background-color:
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '}'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 2:49:50 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Cannot find either column "response" or the user-defined function or aggregate "response.write", or the name is ambiguous..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 2:49:57 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Cannot find either column "response" or the user-defined function or aggregate "response.write", or the name is ambiguous..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 2:50:09 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Cannot find either column "response" or the user-defined function or aggregate "response.write", or the name is ambiguous..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 2:50:12 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Cannot find either column "response" or the user-defined function or aggregate "response.write", or the name is ambiguous..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 2:50:21 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Cannot find either column "response" or the user-defined function or aggregate "response.write", or the name is ambiguous..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 2:50:28 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Cannot find either column "response" or the user-defined function or aggregate "response.write", or the name is ambiguous..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 2:50:36 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Cannot find either column "response" or the user-defined function or aggregate "response.write", or the name is ambiguous..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 2:51:19 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Cannot find either column "response" or the user-defined function or aggregate "response.write", or the name is ambiguous..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 2:51:28 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Cannot find either column "response" or the user-defined function or aggregate "response.write", or the name is ambiguous..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 2:51:39 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Cannot find either column "response" or the user-defined function or aggregate "response.write", or the name is ambiguous..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 2:51:42 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Cannot find either column "response" or the user-defined function or aggregate "response.write", or the name is ambiguous..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 2:51:44 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Cannot find either column "response" or the user-defined function or aggregate "response.write", or the name is ambiguous..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 2:51:46 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Cannot find either column "response" or the user-defined function or aggregate "response.write", or the name is ambiguous..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 2:51:49 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Cannot find either column "response" or the user-defined function or aggregate "response.write", or the name is ambiguous..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 2:56:03 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Unclosed quotation mark after the character string '()')'.
+Incorrect syntax near '()')'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 2:56:04 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Unclosed quotation mark after the character string '()')'.
+Incorrect syntax near '()')'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 2:56:12 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Unclosed quotation mark after the character string '()')'.
+Incorrect syntax near '()')'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 2:56:13 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Unclosed quotation mark after the character string '()')'.
+Incorrect syntax near '()')'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 2:56:21 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Unclosed quotation mark after the character string '()')'.
+Incorrect syntax near '()')'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 2:56:23 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Unclosed quotation mark after the character string '()''..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 2:56:25 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Unclosed quotation mark after the character string '()''..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 2:57:02 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '()') or (C_NAME=N'''.
+Unclosed quotation mark after the character string ')'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 2:57:03 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '()') or (C_NAME=N'''.
+Unclosed quotation mark after the character string ')'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 2:57:10 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '()') or (C_NAME=N'''.
+Unclosed quotation mark after the character string ')'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 2:57:11 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '()') or (C_NAME=N'''.
+Unclosed quotation mark after the character string ')'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 2:57:12 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '()') or (C_NAME=N'''.
+Unclosed quotation mark after the character string ')'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 2:57:13 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Unclosed quotation mark after the character string '()' and C_HOCHIEU =N'USA''..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 2:57:13 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Unclosed quotation mark after the character string '()' and C_HOCHIEU =N'USA''..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:15:40 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Invalid column name 'dir'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:15:48 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Unclosed quotation mark after the character string ')'.
+Incorrect syntax near ')'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:15:52 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Invalid column name 'dir'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:15:56 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Unclosed quotation mark after the character string ')'.
+Incorrect syntax near ')'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:16:01 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Invalid column name 'dir'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:16:10 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Unclosed quotation mark after the character string ')'.
+Incorrect syntax near ')'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:16:19 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Invalid column name 'dir'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:16:21 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Unclosed quotation mark after the character string ')'.
+Incorrect syntax near ')'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:16:26 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Invalid column name 'dir'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:16:29 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Unclosed quotation mark after the character string ')'.
+Incorrect syntax near ')'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:16:32 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Invalid column name 'dir'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:16:41 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Unclosed quotation mark after the character string ''..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:16:49 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Invalid column name 'dir'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:16:55 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Unclosed quotation mark after the character string ''..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:18:25 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Invalid column name 'dir'.
+Invalid column name 'dir'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:18:32 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Incorrect syntax near ') or (C_NAME=N'|dir'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:18:34 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Invalid column name 'dir'.
+Invalid column name 'dir'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:18:41 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Incorrect syntax near ') or (C_NAME=N'|dir'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:18:49 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Invalid column name 'dir'.
+Invalid column name 'dir'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:18:59 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Incorrect syntax near ') or (C_NAME=N'|dir'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:19:03 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Invalid column name 'dir'.
+Invalid column name 'dir'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:19:04 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Incorrect syntax near ') or (C_NAME=N'|dir'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:19:09 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Invalid column name 'dir'.
+Invalid column name 'dir'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:19:11 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Incorrect syntax near ') or (C_NAME=N'|dir'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:19:13 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Invalid column name 'dir'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:19:27 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Incorrect syntax near ' and C_HOCHIEU =N'.
+Unclosed quotation mark after the character string ''..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:19:40 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Invalid column name 'dir'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:19:47 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Incorrect syntax near ' and C_HOCHIEU =N'.
+Unclosed quotation mark after the character string ''..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:28:12 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '\'\'.
+Unclosed quotation mark after the character string ')'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:28:26 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '\'\'.
+Unclosed quotation mark after the character string ')'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:28:43 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '\'\'.
+Unclosed quotation mark after the character string ')'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:28:48 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '\'\'.
+Unclosed quotation mark after the character string ')'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:29:02 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '\'\'.
+Unclosed quotation mark after the character string ')'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:29:21 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '\'\'.
+Unclosed quotation mark after the character string ''..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:29:28 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '\'\'.
+Unclosed quotation mark after the character string ''..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:31:39 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '\'\'.
+');|]*{
+<.>') or (C_HOCHIEU=N'USA')' is an invalid name because it contains a NULL character or an invalid unicode character..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:31:45 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '\'\'.
+');|]*{
+<.>') or (C_HOCHIEU=N'USA')' is an invalid name because it contains a NULL character or an invalid unicode character..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:31:52 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '\'\'.
+');|]*{
+<.>') or (C_HOCHIEU=N'USA')' is an invalid name because it contains a NULL character or an invalid unicode character..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:32:00 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '\'\'.
+');|]*{
+<.>') or (C_HOCHIEU=N'USA')' is an invalid name because it contains a NULL character or an invalid unicode character..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:32:16 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '\'\'.
+');|]*{
+<.>') or (C_HOCHIEU=N'USA')' is an invalid name because it contains a NULL character or an invalid unicode character..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:32:19 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '\'\'.
+Unclosed quotation mark after the character string ''..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:32:29 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '\'\'.
+Unclosed quotation mark after the character string ''..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:41:17 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Incorrect syntax near ';'.
+The name "acunetix_wvs_security_test" is not permitted in this context. Valid expressions are constants, constant expressions, and (in some contexts) variables. Column names are not permitted..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:41:20 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Incorrect syntax near ';'.
+The name "acunetix_wvs_security_test" is not permitted in this context. Valid expressions are constants, constant expressions, and (in some contexts) variables. Column names are not permitted..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:41:27 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Incorrect syntax near ';'.
+The name "acunetix_wvs_security_test" is not permitted in this context. Valid expressions are constants, constant expressions, and (in some contexts) variables. Column names are not permitted..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:41:45 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Incorrect syntax near ';'.
+The name "acunetix_wvs_security_test" is not permitted in this context. Valid expressions are constants, constant expressions, and (in some contexts) variables. Column names are not permitted..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:41:56 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Incorrect syntax near ';'.
+The name "acunetix_wvs_security_test" is not permitted in this context. Valid expressions are constants, constant expressions, and (in some contexts) variables. Column names are not permitted..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:42:07 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : The name "acunetix_wvs_security_test" is not permitted in this context. Valid expressions are constants, constant expressions, and (in some contexts) variables. Column names are not permitted..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:42:17 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : The name "acunetix_wvs_security_test" is not permitted in this context. Valid expressions are constants, constant expressions, and (in some contexts) variables. Column names are not permitted..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:43:27 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Incorrect syntax near ';'.
+The name "acunetix_wvs_security_test" is not permitted in this context. Valid expressions are constants, constant expressions, and (in some contexts) variables. Column names are not permitted.
+The name "acunetix_wvs_security_test" is not permitted in this context. Valid expressions are constants, constant expressions, and (in some contexts) variables. Column names are not permitted..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:43:37 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Incorrect syntax near ';'.
+The name "acunetix_wvs_security_test" is not permitted in this context. Valid expressions are constants, constant expressions, and (in some contexts) variables. Column names are not permitted.
+The name "acunetix_wvs_security_test" is not permitted in this context. Valid expressions are constants, constant expressions, and (in some contexts) variables. Column names are not permitted..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:43:46 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Incorrect syntax near ';'.
+The name "acunetix_wvs_security_test" is not permitted in this context. Valid expressions are constants, constant expressions, and (in some contexts) variables. Column names are not permitted.
+The name "acunetix_wvs_security_test" is not permitted in this context. Valid expressions are constants, constant expressions, and (in some contexts) variables. Column names are not permitted..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:43:55 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Incorrect syntax near ';'.
+The name "acunetix_wvs_security_test" is not permitted in this context. Valid expressions are constants, constant expressions, and (in some contexts) variables. Column names are not permitted.
+The name "acunetix_wvs_security_test" is not permitted in this context. Valid expressions are constants, constant expressions, and (in some contexts) variables. Column names are not permitted..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:44:04 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Incorrect syntax near ';'.
+The name "acunetix_wvs_security_test" is not permitted in this context. Valid expressions are constants, constant expressions, and (in some contexts) variables. Column names are not permitted.
+The name "acunetix_wvs_security_test" is not permitted in this context. Valid expressions are constants, constant expressions, and (in some contexts) variables. Column names are not permitted..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:44:20 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : The name "acunetix_wvs_security_test" is not permitted in this context. Valid expressions are constants, constant expressions, and (in some contexts) variables. Column names are not permitted..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:44:33 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : The name "acunetix_wvs_security_test" is not permitted in this context. Valid expressions are constants, constant expressions, and (in some contexts) variables. Column names are not permitted..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:45:45 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Unclosed quotation mark after the character string '')'.
+Incorrect syntax near '')'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:45:47 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Unclosed quotation mark after the character string '')'.
+Incorrect syntax near '')'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:45:51 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Unclosed quotation mark after the character string '')'.
+Incorrect syntax near '')'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:45:56 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Unclosed quotation mark after the character string '')'.
+Incorrect syntax near '')'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:46:01 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Unclosed quotation mark after the character string '')'.
+Incorrect syntax near '')'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:46:02 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Unclosed quotation mark after the character string '''..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:46:07 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Unclosed quotation mark after the character string '''..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:46:42 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '') or (C_NAME=N'''.
+Unclosed quotation mark after the character string ')'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:46:48 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '') or (C_NAME=N'''.
+Unclosed quotation mark after the character string ')'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:46:54 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '') or (C_NAME=N'''.
+Unclosed quotation mark after the character string ')'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:46:54 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '') or (C_NAME=N'''.
+Unclosed quotation mark after the character string ')'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:46:55 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Incorrect syntax near '') or (C_NAME=N'''.
+Unclosed quotation mark after the character string ')'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:46:55 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Unclosed quotation mark after the character string '' and C_HOCHIEU =N'USA''..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 5/31/2020 3:47:03 AM  
+IP : 10.10.111.100
+Đường dẫn : http://colab.gov.vn/Default.aspx?c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc&c=khai-bao-thong-tin-nguoi-lao-dong-tai-han-quoc
+Nội dung lỗi : SQL lỗi : Unclosed quotation mark after the character string '' and C_HOCHIEU =N'USA''..Net SqlClient Data Provider
+
+

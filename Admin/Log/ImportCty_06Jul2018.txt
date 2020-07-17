@@ -1,0 +1,56 @@
+23 | Công ty TNHH Cresyn Hà Nội (Bắc Ninh) | Phiên dịch | Bắc Ninh | 04888888--
+23 | Công Ty TNHH Crucialtec Vina (Bắc Ninh) | Quản lý sản xuất | Hà Nội | 08999999--
+23 | Công Ty TNHH Crucialtec Vina (Bắc Ninh) | Nhân viên IT | Hà Nội | 09000000--
+23 | Công Ty TNHH DHD Vina (Bắc Ninh) | NV sản xuất | Hà Nội | 09000001--
+23 | Công Ty TNHH DHD Vina (Bắc Ninh) | NV kinh doanh | Hà Nội | 09000002--
+23 | Công ty cổ phần Everpia (Hà Nội) | Quản lý sản xuất kiêm phiên dịch | Hà Nội | 09000003--
+23 | Công ty TNHH BHflex Vina (Vĩnh Phúc) | Quản lý sản xuất | Hà Nội | 09000004--
+23 | Công ty TNHH BHflex Vina (Vĩnh Phúc) | NV kỹ thuật | Hà Nội | 09000005--
+23 | Công ty TNHH BHflex Vina (Vĩnh Phúc) | NV quản lý chất lượng | Hà Nội | 09000006--
+23 | Công ty TNHH LG Display Hải Phòng (Hải Phòng) | Phiên dịch | Hà Nội | 09000007--
+23 | Công ty TNHH Ottogi Vina (Hà Nội) | Quản lý hàng hóa | Hà Nội | 09000008--
+23 | Công ty TNHH WillTech Vina (Bắc Ninh) | Quản lý CNC | Hà Nội | 09000009--
+23 | Công ty TNHH WillTech Vina (Bắc Ninh) | NV kỹ thuật ép nhựa | Hà Nội | 09000010--
+23 | Công ty TNHH WillTech Vina (Bắc Ninh) | NV lắp ráp kiêm phiên dịch | Hà Nội | 09000011--
+23 | Công ty TNHH Chungho Nais (Bắc Ninh) | NV bộ phận sản xuất | Hà Nội | 09000012--
+23 | Công ty VTC Service (Hà Nội) | Nhân viên dịch vụ | Hà Nội | 09000013--
+23 | Công ty TNHH BIT E&M – HẢI PHÒNG (Hải Phòng) | NV Kỹ thuật | Hà Nội | 09000014--
+23 | Công ty TNHH BIT E&M – HẢI PHÒNG (Hải Phòng) | NV bộ phận sản xuất (ép nhựa) | Hà Nội | 09000015--
+23 | Công ty TNHH Sebong Vina (Bắc Ninh) | Phiên dịch | Hà Nội | 09000016--
+23 | Cty TNHH S.I Tech Việt Nam (Bắc Ninh) | Trưởng phòng chất lượng | Hà Nội | 09000017--
+23 | Công ty TNHH Việt Nam Dragonjet  (Bắc Ninh) | Trưởng ca điều chỉnh máy ép nhựa | Hà Nội | 09000018--
+23 | Công ty TNHH Việt Nam Dragonjet  (Bắc Ninh) | NV thử khuôn | Hà Nội | 09000019--
+23 | Công ty TNHH Việt Nam Dragonjet  (Bắc Ninh) | NV sản xuất | Hà Nội | 09000020--
+23 | Công ty TNHH Việt Nam Dragonjet  (Bắc Ninh) | Trưởng phòng chất lượng | Hà Nội | 09000021--
+23 | Công ty TNHH Việt Nam Dragonjet  (Bắc Ninh) | NV kỹ thuật phun sơn | Hà Nội | 09000022--
+23 | Công ty TNHH Aiden Việt Nam (Hải  Dương) | Trưởng bộ phận sản xuất | Hà Nội | 09000023--
+23 | Công ty TNHH Aiden Việt Nam (Hải  Dương) | Trưởng bộ phận QA | Hà Nội | 09000024--
+23 | Công ty TNHH Aiden Việt Nam (Hải  Dương) | Trưởng bộ phận SMT | Hà Nội | 09000025--
+23 | Công ty TNHH Aiden Việt Nam (Hải  Dương) | Phó phòng SX | Hà Nội | 09000026--
+23 | Công ty TNHH Aiden Việt Nam (Hải  Dương) | NV tiếng Nhật | Hà Nội | 09000027--
+23 | Công ty TNHH Haivina (Hải Dương) | Phiên dịch | Hà Nội | 09000028--
+23 | Công ty CP CN Quảng An 1 (Bắc Ninh) | Nhân viên ISO | Hà Nội | 09000029--
+23 | Công ty CP CN Quảng An 1 (Bắc Ninh) | NV thiết kế  | Hà Nội | 09000030--
+23 | Công ty CP CN Quảng An 1 (Bắc Ninh) | NV kế toán | Hà Nội | 09000031--
+23 | Công ty CP CN Quảng An 1 (Bắc Ninh) | Trưởng phòng QC | Hà Nội | 09000032--
+23 | Công ty TNHH chế biến thực phẩm Goldfood 
+(Bắc Ninh) | Lái xe | Hà Nội | 09000033--
+23 | Công ty TNHH chế biến thực phẩm Goldfood 
+(Bắc Ninh) | Công nhân | Hà Nội | 09000034--
+23 | Công ty TNHH chế biến thực phẩm Goldfood 
+(Bắc Ninh) | NV đứng máy | Hà Nội | 09000035--
+23 | Công ty TNHH chế biến thực phẩm Goldfood 
+(Bắc Ninh) | Nhân viên KCS | Hà Nội | 09000036--
+23 | Công ty TNHH chế biến thực phẩm Goldfood 
+(Bắc Ninh) | NV kinh doanh | Hà Nội | 09000037--
+23 | Công ty TNHH hệ thống điện Việt Nhật (Hải  Dương) | Công nhân sản xuất | Hà Nội | 09000038--
+23 | Công ty TNHH PCCC Tomoken Việt Nam
+ (Hải Dương) | Công nhân kỹ thuật | Hà Nội | 09000039--
+23 | Cty TNHH Jenway Technology VN (Bắc Ninh) | Nhân viên kinh doanh | Hà Nội | 09000040--
+23 | Cty TNHH Jenway Technology VN (Bắc Ninh) | Nhân viên thiết kế | Hà Nội | 09000041--
+23 | Công ty TNHH MIRAE VINA (Hà Nội) | Phiên dịch công trường | Hà Nội | 09000042--
+23 | Công ty TNHH MIRAE VINA (Hà Nội) | Kiến trúc sư | Hà Nội | 09000043--
+23 | Công ty TNHH MIRAE VINA (Hà Nội) | Biên/ Phiên dịch | Hà Nội | 09000044--
+23 | Công Ty TNHH Envaco (Bình Dương) | Gia công máy móc | Hà Nội | 09000045--
+23 | Công Ty TNHH Envaco (Bình Dương) | Nhân viên sơn | Hà Nội | 09000046--
+23 | Công ty Liên doanh kính nổi Việt Nam (Hà Nội) | Công nhân điện | Hà Nội | 09000047--

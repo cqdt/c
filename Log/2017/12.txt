@@ -1,0 +1,102 @@
+Thời gian lỗi : 12/12/2017 7:03:34 AM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:50528/COLABV2/admin/Login.aspx
+Nội dung lỗi : SQL lỗi : Cannot insert the value NULL into column 'PK_USER_LOG', table 'CoLab2017.dbo.T_USER_LOG'; column does not allow nulls. INSERT fails.
+The statement has been terminated..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 12/12/2017 7:35:09 AM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:50528/COLABV2/Admin/Login.aspx
+Nội dung lỗi : SQL lỗi : Cannot insert the value NULL into column 'PK_USER_LOG', table 'CoLab2017.dbo.T_USER_LOG'; column does not allow nulls. INSERT fails.
+The statement has been terminated..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 12/12/2017 7:39:10 AM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:50528/COLABV2/Default.aspx
+Nội dung lỗi : SQL lỗi : Column "T_MENU.C_ORDER" is invalid in the ORDER BY clause because it is not contained in either an aggregate function or the GROUP BY clause..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 12/12/2017 7:39:27 AM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:50528/COLABV2/Default.aspx
+Nội dung lỗi : SQL lỗi : Column "T_MENU.C_ORDER" is invalid in the ORDER BY clause because it is not contained in either an aggregate function or the GROUP BY clause..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 12/12/2017 8:39:08 AM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:50528/COLABV2/Admin/Login.aspx
+Nội dung lỗi : SQL lỗi : Cannot insert the value NULL into column 'PK_USER_LOG', table 'CoLab2017.dbo.T_USER_LOG'; column does not allow nulls. INSERT fails.
+The statement has been terminated..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 12/17/2017 2:18:12 PM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:50528/COLABV2/Default.aspx
+Nội dung lỗi : SQL lỗi : Invalid object name 'T_VIDEO'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 12/17/2017 2:18:12 PM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:50528/COLABV2/Default.aspx
+Nội dung lỗi : SQL lỗi : Invalid column name 'C_HOME'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 12/17/2017 2:25:34 PM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:50528/COLABV2/Default.aspx
+Nội dung lỗi : SQL lỗi : Invalid object name 'T_VIDEO'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 12/17/2017 2:25:35 PM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:50528/COLABV2/Default.aspx
+Nội dung lỗi : SQL lỗi : Invalid column name 'C_HOME'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 12/19/2017 2:03:45 PM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:50528/COLABV2/admin/Login.aspx
+Nội dung lỗi : SQL lỗi : Cannot insert the value NULL into column 'PK_USER_LOG', table 'CoLab2017.dbo.T_USER_LOG'; column does not allow nulls. INSERT fails.
+The statement has been terminated..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 12/19/2017 2:08:26 PM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:50528/COLABV2/Admin/Login.aspx
+Nội dung lỗi : SQL lỗi : Cannot insert the value NULL into column 'PK_USER_LOG', table 'CoLab2017.dbo.T_USER_LOG'; column does not allow nulls. INSERT fails.
+The statement has been terminated..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 12/19/2017 2:34:39 PM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:50528/COLABV2/Default.aspx?c=video&l=5
+Nội dung lỗi : SQL lỗi : Incorrect syntax near the keyword 'WHERE'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 12/19/2017 2:34:57 PM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:50528/COLABV2/Default.aspx?c=video&l=5
+Nội dung lỗi : SQL lỗi : Incorrect syntax near the keyword 'WHERE'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 12/19/2017 2:35:23 PM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:50528/COLABV2/Default.aspx?c=video&l=5
+Nội dung lỗi : SQL lỗi : Incorrect syntax near 'PK_VIDEO'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 12/19/2017 2:35:44 PM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:50528/COLABV2/Default.aspx?c=video&l=5
+Nội dung lỗi : SQL lỗi : Incorrect syntax near the keyword 'AND'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 12/19/2017 2:48:05 PM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:50528/COLABV2/Admin/Login.aspx
+Nội dung lỗi : SQL lỗi : Cannot insert the value NULL into column 'PK_USER_LOG', table 'CoLab2017.dbo.T_USER_LOG'; column does not allow nulls. INSERT fails.
+The statement has been terminated..Net SqlClient Data Provider
+
+

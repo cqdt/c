@@ -1,0 +1,147 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeFile="im-japan.ascx.cs" Inherits="Modules_im_japan" %>
+
+
+<div class="bg_title_cate">
+<div class="title_cate">
+    <div class="title_cate_ico"></div>
+    <a class="a_title_cate">Đăng ký dự tuyển chương trình IM Japan</a>
+</div>    
+<div class="title_cate_right"></div>
+</div>
+
+<div class="img_24">
+    <ul class="dangkytienghan">
+        <li><span class="hokhau">Họ và tên:</span><asp:TextBox ID="txthoten" CssClass="txthoten" Width="330" runat="server"></asp:TextBox></li>
+        <li><span class="hokhau">Ngày sinh:</span>
+        
+         <asp:TextBox ID="txtngaysinh" CssClass="txtngaythangnam"  Width="25" runat="server" onfocus="if(this.value=='dd') this.value='';" onblur="if(this.value=='') this.value='dd';" value="dd"></asp:TextBox>
+      <span style="float:left;margin:10px 5px 0 5px">/</span>
+        <asp:TextBox ID="txtthangsinh" CssClass="txtngaythangnam"  Width="25" runat="server" onfocus="if(this.value=='MM') this.value='';" onblur="if(this.value=='') this.value='MM';" value="MM"></asp:TextBox>
+      <span style="float:left;margin:10px 5px 0 5px">/</span>
+        <asp:TextBox ID="txtnamsinh" CssClass="txtngaythangnam"  Width="40" runat="server" onfocus="if(this.value=='yyyy') this.value='';" onblur="if(this.value=='') this.value='yyyy';" value="yyyy"></asp:TextBox>
+
+        
+        
+        </li>
+        <li><span class="hokhau">CMND:</span><asp:TextBox ID="txtCMND" CssClass="txthoten" Width="330" runat="server"></asp:TextBox></li>
+        <li><span class="hokhau">Trình độ học vấn:</span><asp:TextBox ID="txttrinhdo" CssClass="txthoten" Width="330" runat="server"></asp:TextBox></li>
+        <li><span class="hokhau">Tình trạng hôn nhân:</span>
+             <select runat="server" id="cbohonhan" class="honnhan">
+                <option value="Độc thân">Độc thân</option>
+                <option value="Đã kết hôn">Đã kết hôn</option>
+                <option value="Đã ly hôn">Đã ly hôn</option>
+            </select>
+        </li>
+        <li><span class="hokhau">Nơi đăng ký hộ khẩu thường trú:</span><asp:TextBox ID="txthokhau" CssClass="txthoten" Width="330" runat="server"></asp:TextBox></li>
+        <li><span class="hokhau">Số nhà/thôn/xóm:</span><asp:TextBox ID="txtsonha" CssClass="txthoten" Width="330" runat="server"></asp:TextBox></li>
+        <li><span class="hokhau">Phường/xã:</span><asp:TextBox ID="txtphuongxa" CssClass="txthoten" Width="330" runat="server"></asp:TextBox></li>
+        <li><span class="hokhau">Quân/huyện:</span><asp:TextBox ID="txtquanhuyen" CssClass="txthoten" Width="330" runat="server"></asp:TextBox></li>
+        <li><span class="hokhau">Thành phố/tỉnh:</span><asp:TextBox ID="txtthanhpho" CssClass="txthoten" Width="330" runat="server"></asp:TextBox></li>
+        <li><span class="hokhau">Số điện thoại thứ nhất:</span><asp:TextBox ID="txtdienthoai1" CssClass="txthoten" Width="330" runat="server"></asp:TextBox></li>
+        <li><span class="hokhau">Số điện thoại thứ hai:</span><asp:TextBox ID="txtdienthoai2" CssClass="txthoten" Width="330" runat="server"></asp:TextBox></li>
+        <li><span class="hokhau">Người liên hệ:</span><asp:TextBox ID="txtnguoilienhe" CssClass="txthoten" Width="330" runat="server"></asp:TextBox></li>
+        <li><span class="hokhau">Quan hệ với người đăng ký:</span><asp:TextBox ID="txtquanhe" CssClass="txthoten" Width="330" runat="server"></asp:TextBox></li>
+        <li><span class="hokhau">Địa chỉ:</span><asp:TextBox ID="txtdiachi" CssClass="txthoten" Width="330" runat="server"></asp:TextBox></li>
+        <li><span class="hokhau">Điện thoại:</span><asp:TextBox ID="txtdienthoai" CssClass="txthoten" Width="330" runat="server"></asp:TextBox></li>
+        
+         <li><asp:Button ID="btngui" OnClientClick="return CheckSubmit()" runat="server" Text="Đăng ký" CssClass="btngui im" 
+                onclick="btngui_Click"/></li>
+    </ul>
+</div>
+
+
+
+<script type="text/javascript" language="javascript">
+    function CheckSubmit() {
+
+        var txthoten = document.getElementById("<%=txthoten.ClientID %>").value;
+
+        var txtngaysinh = document.getElementById("<%=txtngaysinh.ClientID %>").value;
+        var txtthangsinh = document.getElementById("<%=txtthangsinh.ClientID %>").value;
+        var txtnamsinh = document.getElementById("<%=txtnamsinh.ClientID %>").value;
+
+
+        var txtCMND = document.getElementById("<%=txtCMND.ClientID %>").value;
+        var txttrinhdo = document.getElementById("<%=txttrinhdo.ClientID %>").value;
+        var txthokhau = document.getElementById("<%=txthokhau.ClientID %>").value;
+        var txtsonha = document.getElementById("<%=txtsonha.ClientID %>").value;
+        var txtphuongxa = document.getElementById("<%=txtphuongxa.ClientID %>").value;
+        var txtquanhuyen = document.getElementById("<%=txtquanhuyen.ClientID %>").value;
+        var txtthanhpho = document.getElementById("<%=txtthanhpho.ClientID %>").value;
+        var txtdienthoai1 = document.getElementById("<%=txtdienthoai1.ClientID %>").value;
+        var txtdienthoai2 = document.getElementById("<%=txtdienthoai2.ClientID %>").value;
+        var txtnguoilienhe = document.getElementById("<%=txtnguoilienhe.ClientID %>").value;
+        var txtquanhe = document.getElementById("<%=txtquanhe.ClientID %>").value;
+        var txtdiachi = document.getElementById("<%=txtdiachi.ClientID %>").value;
+        var txtdienthoai = document.getElementById("<%=txtdienthoai.ClientID %>").value;
+
+
+
+
+        if (txthoten == "") {
+            alert("Hãy nhập Họ và tên");
+            return false;
+        }
+
+        else if ((txtngaysinh == "") || (txtthangsinh == "") || (txtnamsinh == "") || (txtngaysinh == "dd") || (txtthangsinh == "MM") || (txtnamsinh == "yyyy")) {
+            alert("Hãy nhập Ngày tháng năm sinh");
+            return false;
+        }
+
+        else if (txtCMND == "") {
+            alert("Hãy nhập CMND");
+            return false;
+        }
+        else if (txttrinhdo == "") {
+            alert("Hãy nhập Trình độ học vấn");
+            return false;
+        }
+        else if (txthokhau == "") {
+            alert("Hãy nhập Nơi đăng ký hộ khẩu thường trú");
+            return false;
+        }
+        else if (txtsonha == "") {
+            alert("Hãy nhập Số nhà/thôn/xóm");
+            return false;
+        }
+        else if (txtphuongxa == "") {
+            alert("Hãy nhập Phường/xã");
+            return false;
+        }
+        else if (txtquanhuyen == "") {
+            alert("Hãy nhập Quân/huyện");
+            return false;
+        }
+        else if (txtthanhpho == "") {
+            alert("Hãy nhập Thành phố/tỉnh");
+            return false;
+        }
+        else if (txtdienthoai1 == "") {
+            alert("Hãy nhập Số điện thoại thứ nhất");
+            return false;
+        }
+        else if (txtdienthoai2 == "") {
+            alert("Hãy nhập Số điện thoại thứ hai");
+            return false;
+        }
+        else if (txtnguoilienhe == "") {
+            alert("Hãy nhập Người liên hệ");
+            return false;
+        }
+        else if (txtquanhe == "") {
+            alert("Hãy nhập Quan hệ với người đăng ký");
+            return false;
+        }
+        else if (txtdiachi == "") {
+            alert("Hãy nhập Địa chỉ");
+            return false;
+        }
+        else if (txtdienthoai == "") {
+            alert("Hãy nhập Điện thoại");
+            return false;
+        }
+        else {
+            return true;
+        }
+    }
+</script>

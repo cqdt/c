@@ -1,0 +1,37 @@
+Thời gian lỗi : 3/9/2020 5:13:03 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Admin/Default.aspx?ctl=ds-holy-japan
+Nội dung lỗi : SQL lỗi : Incorrect syntax near 'C_NGAYGUI'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 3/9/2020 5:16:48 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Admin/Default.aspx?ctl=ds-holy-japan
+Nội dung lỗi : SQL lỗi : Incorrect syntax near 'C_NGAYGUI'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 3/9/2020 5:16:54 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Admin/Default.aspx?ctl=ds-holy-japan
+Nội dung lỗi : SQL lỗi : Incorrect syntax near 'C_NGAYGUI'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 3/9/2020 5:35:08 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Admin/Default.aspx?ctl=ds-DaiLoan
+Nội dung lỗi : SQL lỗi : Invalid column name 'C_TRINHDOTIENGTRUNG'.
+Invalid column name 'C_DALAMVIECTAIDAILOAN'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 3/9/2020 5:35:32 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Admin/Default.aspx?ctl=ds-DaiLoan
+Nội dung lỗi : SQL lỗi : Invalid column name 'C_GIOITINH'..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 3/9/2020 5:35:38 PM  
+IP : 127.0.0.1
+Đường dẫn : http://colab.gov.vn/Admin/Default.aspx?ctl=ds-DaiLoan
+Nội dung lỗi : SQL lỗi : Invalid column name 'C_GIOITINH'..Net SqlClient Data Provider
+
+

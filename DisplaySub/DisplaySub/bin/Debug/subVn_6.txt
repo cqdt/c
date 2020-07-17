@@ -1,0 +1,3 @@
+6
+00:00:13.5470000-->00:00:13.5470000
+{\displaystyle \Lambda (x,y,\lambda )=f(x,y)+\lambda \cdot g(x,y),}{\displaystyle \Lambda (x,y,\lambda )=f(x,y)+\lambda \cdot g(x,y),}

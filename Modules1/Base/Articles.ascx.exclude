@@ -1,0 +1,65 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeFile="Articles.ascx.cs" Inherits="Modules_Base_Articles" %>
+<%@ Register Assembly="RadAjax.Net2" Namespace="Telerik.WebControls" TagPrefix="radA" %>
+            
+   <asp:GridView id="gvArticles" runat="server" GridLines="None" ShowHeader="false" Width="100%"
+		AutoGenerateColumns="False" AllowPaging="True" HorizontalAlign="Center" OnPageIndexChanging="gvArticles_PageIndexChanging" CaptionAlign="Top" PageSize="10">
+		<PagerSettings FirstPageText="First" LastPageText="Last" 
+            Mode="NextPreviousFirstLast" NextPageText="Next" PageButtonCount="5" 
+            PreviousPageText="Previous" />
+		<Columns>
+				<asp:TemplateField ShowHeader="False">
+					 <ItemTemplate>					
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									 <td height="35" colspan="2" valign="middle" align="left">
+     									<a class="tintuc" href="Default.aspx?ctl=<%= Module_Detail %>&aID=<%# Eval("PK_ARTICLE") %>"><%# Replace(Eval("C_TITLE"))%></a>
+									 </td>
+								 </tr>
+								 <tr>
+									 <td width="0" style="vertical-align:text-top" valign="top" align="left">
+											<a href="Default.aspx?ctl=<%= Module_Detail %>&aID=<%# Eval("PK_ARTICLE") %>"> <%# CMS.TTV.Web.Utils.CreateLink(Eval("C_IMAGE_FILE_NAME"), 120, 0, 0, "img", true)%></a>
+									 </td>
+									 <td valign="top" align="left" style="text-align:justify;padding-left:5px">
+													<%# Replace(Eval("C_HEAD"))%>
+									 </td>
+								 </tr>
+								 <tr>								   
+								     <td colspan="2" height="10" align="right">                                   
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                            <tr>
+                                                   <td height="9" align="right" valign="middle">   
+                                                       <img src="Images/gach_ngang.jpg" width="435" height="3" border="0">                    
+                                                    </td>
+                                                    <td height="9" width="80" align="center" valign="bottom">
+                                                     <a class="xemtiep" href="Default.aspx?ctl=<%= Module_Detail %>&aID=<%# Eval("PK_ARTICLE") %>">Xem tiếp <span style="font-size:10px">>></span></a>
+                                                    </td>        
+                                            </tr>
+                                        </table>
+                                    
+                                    </td>
+								 </tr>	
+								   				
+							</table>							
+					 </ItemTemplate>
+				</asp:TemplateField>
+		</Columns>
+		<PagerStyle CssClass="Gird_Page" />
+</asp:GridView> 
+
+<radA:RadAjaxManager ID="radaArticles" runat="server">
+  <AjaxSettings>
+      <rada:AjaxSetting AjaxControlID="gvArticles">
+          <UpdatedControls>
+             <rada:AjaxUpdatedControl ControlID="gvArticles" LoadingPanelID="LoadingPanel1"></rada:AjaxUpdatedControl>
+          </UpdatedControls>
+      </rada:AjaxSetting>
+   </AjaxSettings>        
+</radA:RadAjaxManager>
+
+<rada:AjaxLoadingPanel style="width:320px;padding-top:20px;" runat="Server" id="LoadingPanel1"  InitialDelayTime="0">
+   <asp:Image ID="Image1" ImageUrl="~/RadControls/AJAX/Skins/Default/loading3.gif" AlternateText="Loading" BorderWidth="0px" Runat="server"></asp:Image>
+</rada:AjaxLoadingPanel>
+
+              
+
+

@@ -1,0 +1,22 @@
+c:\users\admin\documents\visual studio 2015\Projects\DisplaySub\DisplaySub\bin\Release\DisplaySub.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\DisplaySub\DisplaySub\bin\Release\DisplaySub.exe
+c:\users\admin\documents\visual studio 2015\Projects\DisplaySub\DisplaySub\bin\Release\DisplaySub.pdb
+c:\users\admin\documents\visual studio 2015\Projects\DisplaySub\DisplaySub\obj\Release\DisplaySub.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\DisplaySub\DisplaySub\obj\Release\DisplaySub.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\DisplaySub\DisplaySub\obj\Release\DisplaySubSharp.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\DisplaySub\DisplaySub\obj\Release\DisplaySub.exe
+c:\users\admin\documents\visual studio 2015\Projects\DisplaySub\DisplaySub\obj\Release\DisplaySub.pdb
+c:\users\admin\documents\visual studio 2015\Projects\DisplaySub\bin\DisplaySub.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\DisplaySub\bin\DisplaySub.exe
+c:\users\admin\documents\visual studio 2015\Projects\DisplaySub\bin\DisplaySub.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DisplaySub\DisplaySub\obj\Release\DisplaySubSharp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DisplaySub\bin\DisplaySub.exe.config
+C:\Users\Administrator\Desktop\DisplaySub\bin\DisplaySub.exe
+C:\Users\Administrator\Desktop\DisplaySub\bin\DisplaySub.pdb
+C:\Users\Administrator\Desktop\DisplaySub\DisplaySub\obj\Release\DisplaySub.Form1.resources
+C:\Users\Administrator\Desktop\DisplaySub\DisplaySub\obj\Release\DisplaySub.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DisplaySub\DisplaySub\obj\Release\DisplaySubSharp.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\DisplaySub\DisplaySub\obj\Release\DisplaySubSharp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DisplaySub\DisplaySub\obj\Release\DisplaySubSharp.csproj.CopyComplete
+C:\Users\Administrator\Desktop\DisplaySub\DisplaySub\obj\Release\DisplaySub.exe
+C:\Users\Administrator\Desktop\DisplaySub\DisplaySub\obj\Release\DisplaySub.pdb

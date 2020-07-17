@@ -1,0 +1,98 @@
+21 | Công Ty TNHH LG Display Việt Nam Hải Phòng
+(Hải Phòng) | Phiên dịch | Duy Tân - Từ Liêm - Hà Nội | 04888888--
+21 | Công ty TNHH BHflex Vina
+(Vĩnh Phúc) | Quản lý sản xuất | Duy Tân - Từ Liêm - Hà Nội | 04888889--
+21 | Công ty TNHH BHflex Vina
+(Vĩnh Phúc) | NV kỹ thuật | Duy Tân - Từ Liêm - Hà Nội | 04888890--
+21 | Công ty TNHH BHflex Vina
+(Vĩnh Phúc) | NV quản lý chất lượng | Duy Tân - Từ Liêm - Hà Nội | 04888891--
+21 | Công ty TNHH DIC VINA
+(Bắc Ninh)
+ | Quản lý chất lượng | Duy Tân - Từ Liêm - Hà Nội | 04888892--
+21 | Công ty TNHH DIC VINA
+(Bắc Ninh)
+ | Quản lý sản xuất | Duy Tân - Từ Liêm - Hà Nội | 04888893--
+21 | Công ty TNHH Công nghệ  Gloveland Vina
+(Bắc Giang)
+ | Phiên dịch | Duy Tân - Từ Liêm - Hà Nội | 04888894--
+21 | Công ty TNHH Công nghệ  Gloveland Vina
+(Bắc Giang)
+ | Quản lý sản xuất | Duy Tân - Từ Liêm - Hà Nội | 04888895--
+21 | Công ty TNHH Công nghệ  Gloveland Vina
+(Bắc Giang)
+ | Quản lý nhà máy | Duy Tân - Từ Liêm - Hà Nội | 04888896--
+21 | Công ty TNHH Hyundai Boteco
+(Hà Nội) | Phiên dịch | Duy Tân - Từ Liêm - Hà Nội | 04888897--
+21 | Công ty TNHH Hyundai Boteco
+(Hà Nội) | NV kinh doanh | Duy Tân - Từ Liêm - Hà Nội | 04888898--
+21 | Công ty TNHH KTM Việt Nam
+(Bắc Ninh) | NV kinh doanh | Duy Tân - Từ Liêm - Hà Nội | 04888899--
+21 | Công ty TNHH Nextway Vietnam
+(Bắc Ninh) | Kỹ sư điện | Duy Tân - Từ Liêm - Hà Nội | 04888900--
+21 | Công ty TNHH RFTECH Thái Nguyên
+(Thái Nguyên) | Phiên dịch sản xuất | Duy Tân - Từ Liêm - Hà Nội | 04888901--
+21 | Công ty TNHH RFTECH Thái Nguyên
+(Thái Nguyên) | Phiên dịch chất lượng | Duy Tân - Từ Liêm - Hà Nội | 04888902--
+21 | Công ty TNHH RFTECH Thái Nguyên
+(Thái Nguyên) | Phiên dịch kỹ thuật | Duy Tân - Từ Liêm - Hà Nội | 04888903--
+21 | Công ty TNHH S-connect BG Vina
+(Bắc Giang) | NV sản xuất | Duy Tân - Từ Liêm - Hà Nội | 04888904--
+21 | Công ty TNHH S-connect BG Vina
+(Bắc Giang) | NV chất lượng | Duy Tân - Từ Liêm - Hà Nội | 04888905--
+21 | Công ty TNHH S-connect BG Vina
+(Bắc Giang) | NV kinh doanh | Duy Tân - Từ Liêm - Hà Nội | 04888906--
+21 | Công ty TNHH SM Tech vina
+(Bắc Ninh) | NV vận hành MCT, CNC | Duy Tân - Từ Liêm - Hà Nội | 04888907--
+21 | Công ty TNHH SM Tech vina
+(Bắc Ninh) | Thợ phay | Duy Tân - Từ Liêm - Hà Nội | 04888908--
+21 | Công ty TNHH SM Tech vina
+(Bắc Ninh) | NV bảo hành | Duy Tân - Từ Liêm - Hà Nội | 04888909--
+21 | Công ty TNHH Ottogi Việt Nam
+(Hà Nội) | Quản lý sản xuất | Duy Tân - Từ Liêm - Hà Nội | 04888910--
+21 | Công ty TNHH Ottogi Việt Nam
+(Hà Nội) | Quản lý KD | Duy Tân - Từ Liêm - Hà Nội | 04888911--
+21 | Công ty TNHH Ottogi Việt Nam
+(Hà Nội) | NV kho | Duy Tân - Từ Liêm - Hà Nội | 04888912--
+21 | Công ty TNHH Changsung Vina (Bắc Ninh)
+ | NV thiết bị điều hòa | Duy Tân - Từ Liêm - Hà Nội | 04888913--
+21 | Công ty TNHH Changsung Vina (Bắc Ninh)
+ | Quản lý | Duy Tân - Từ Liêm - Hà Nội | 04888914--
+21 | Công ty TNHH Philoptics  Việt Nam (Bắc Ninh) | NV sửa chữa máy móc | Duy Tân - Từ Liêm - Hà Nội | 04888915--
+21 | Công ty TNHH DongAh Elecomm Việt Nam
+(Hòa Bình) | phiên dịch | Duy Tân - Từ Liêm - Hà Nội | 04888916--
+21 | Công ty TNHH DongAh Elecomm Việt Nam
+(Hòa Bình) | NV kinh doanh | Duy Tân - Từ Liêm - Hà Nội | 04888917--
+21 | Công ty cổ phần Alutec Vina
+(Thái Nguyên) | Quản lý sản xuất | Duy Tân - Từ Liêm - Hà Nội | 04888918--
+21 | Công ty cổ phần Alutec Vina
+(Thái Nguyên) | NV văn phòng | Duy Tân - Từ Liêm - Hà Nội | 04888919--
+21 | Công ty cổ phần Alutec Vina
+(Thái Nguyên) | phiên dịch xưởng | Duy Tân - Từ Liêm - Hà Nội | 04888920--
+21 | Công ty cổ phần Crucialtec Vina
+(Bắc Ninh) | Quản lý sản xuất, mua hàng | Duy Tân - Từ Liêm - Hà Nội | 04888921--
+21 | Công ty cổ phần Crucialtec Vina
+(Bắc Ninh) | Quản lý chất lượng | Duy Tân - Từ Liêm - Hà Nội | 04888922--
+21 | Công ty cổ phần Crucialtec Vina
+(Bắc Ninh) | Nhân viên IT | Duy Tân - Từ Liêm - Hà Nội | 04888923--
+21 | Công ty TNHH Hà Nội Sewonintech (Bắc Ninh) | NV khuôn | Duy Tân - Từ Liêm - Hà Nội | 04888924--
+21 | Công ty TNHH Hà Nội Sewonintech (Bắc Ninh) | Phiên dịch | Duy Tân - Từ Liêm - Hà Nội | 04888925--
+21 | Công ty TNHH Ansoft (Hà Nội)
+ | NV truyền thông | Duy Tân - Từ Liêm - Hà Nội | 04888926--
+21 | Công ty TNHH Ansoft (Hà Nội)
+ | Phiên dịch | Duy Tân - Từ Liêm - Hà Nội | 04888927--
+21 | Công ty TNHH Ansoft (Hà Nội)
+ | NV kinh doanh | Duy Tân - Từ Liêm - Hà Nội | 04888928--
+21 | Công ty TNHH  Cube Tag vina
+(Bắc Ninh) | Biên phiên dịch | Duy Tân - Từ Liêm - Hà Nội | 04888929--
+21 | Công ty TNHH Em-Tech VN
+(Bắc Ninh) | NV nhập khẩu | Duy Tân - Từ Liêm - Hà Nội | 04888930--
+21 | Công ty TNHH Em-Tech VN
+(Bắc Ninh) | NV mua hàng | Duy Tân - Từ Liêm - Hà Nội | 04888931--
+21 | Công ty TNHH Em-Tech VN
+(Bắc Ninh) | NV quản lý sản xuất | Duy Tân - Từ Liêm - Hà Nội | 04888932--
+21 | Công ty TNHH Em-Tech VN
+(Bắc Ninh) | NV quản lý chất lượng | Duy Tân - Từ Liêm - Hà Nội | 04888933--
+21 | Công ty TNHH Vina  Yong Seong
+(Bắc Ninh) | Nhân viên cơ điện | Duy Tân - Từ Liêm - Hà Nội | 04888934--
+21 | Công ty TNHH Vina  Yong Seong
+(Bắc Ninh) | Thợ lập trình khuôn | Duy Tân - Từ Liêm - Hà Nội | 04888935--

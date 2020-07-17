@@ -1,0 +1,49 @@
+Thời gian lỗi : 11/8/2017 10:00:36 AM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/ADMIN/Login.aspx
+Nội dung lỗi : SQL lỗi : Cannot insert the value NULL into column 'PK_USER_LOG', table 'CoLab2017.dbo.T_USER_LOG'; column does not allow nulls. INSERT fails.
+The statement has been terminated..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 11/8/2017 3:29:46 PM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/ADMIN/Login.aspx
+Nội dung lỗi : SQL lỗi : Cannot insert the value NULL into column 'PK_USER_LOG', table 'CoLab2017.dbo.T_USER_LOG'; column does not allow nulls. INSERT fails.
+The statement has been terminated..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 11/8/2017 4:29:02 PM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/Admin/Login.aspx
+Nội dung lỗi : SQL lỗi : Cannot insert the value NULL into column 'PK_USER_LOG', table 'CoLab2017.dbo.T_USER_LOG'; column does not allow nulls. INSERT fails.
+The statement has been terminated..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 11/9/2017 5:45:55 AM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/ADMIN/Login.aspx
+Nội dung lỗi : SQL lỗi : Cannot insert the value NULL into column 'PK_USER_LOG', table 'CoLab2017.dbo.T_USER_LOG'; column does not allow nulls. INSERT fails.
+The statement has been terminated..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 11/9/2017 6:18:01 AM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/Admin/Login.aspx
+Nội dung lỗi : SQL lỗi : Cannot insert the value NULL into column 'PK_USER_LOG', table 'CoLab2017.dbo.T_USER_LOG'; column does not allow nulls. INSERT fails.
+The statement has been terminated..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 11/9/2017 7:24:25 AM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/Admin/Login.aspx
+Nội dung lỗi : SQL lỗi : Cannot insert the value NULL into column 'PK_USER_LOG', table 'CoLab2017.dbo.T_USER_LOG'; column does not allow nulls. INSERT fails.
+The statement has been terminated..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 11/9/2017 8:15:28 AM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/Admin/Login.aspx
+Nội dung lỗi : SQL lỗi : Cannot insert the value NULL into column 'PK_USER_LOG', table 'CoLab2017.dbo.T_USER_LOG'; column does not allow nulls. INSERT fails.
+The statement has been terminated..Net SqlClient Data Provider
+
+

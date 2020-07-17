@@ -1,0 +1,3 @@
+5
+00:00:11.3810000-->00:00:11.3810000
+ Đặt một biến mới (λ) gọi là nhân tử Lagrange và nghiên cứu hàm Lagrange (hay Lagrangian) định nghĩa bằng

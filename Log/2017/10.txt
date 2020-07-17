@@ -1,0 +1,319 @@
+Thời gian lỗi : 10/5/2017 1:32:14 PM  
+IP : 118.70.129.84
+Đường dẫn : http://v2.cagaileonguyenchat.com/admin/Login.aspx
+Nội dung lỗi : SQL lỗi : Cannot insert the value NULL into column 'PK_USER_LOG', table 'CoLab2017.dbo.T_USER_LOG'; column does not allow nulls. INSERT fails.
+The statement has been terminated..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/9/2017 4:22:03 PM  
+IP : 171.229.242.143
+Đường dẫn : http://v2.cagaileonguyenchat.com/admin/Login.aspx
+Nội dung lỗi : SQL lỗi : Cannot insert the value NULL into column 'PK_USER_LOG', table 'CoLab2017.dbo.T_USER_LOG'; column does not allow nulls. INSERT fails.
+The statement has been terminated..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/10/2017 9:20:04 PM  
+IP : 1.55.44.152
+Đường dẫn : http://v2.cagaileonguyenchat.com/admin/Login.aspx
+Nội dung lỗi : SQL lỗi : Cannot insert the value NULL into column 'PK_USER_LOG', table 'CoLab2017.dbo.T_USER_LOG'; column does not allow nulls. INSERT fails.
+The statement has been terminated..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/11/2017 8:29:09 AM  
+IP : 116.111.63.250
+Đường dẫn : http://v2.cagaileonguyenchat.com/admin/Login.aspx
+Nội dung lỗi : SQL lỗi : Cannot insert the value NULL into column 'PK_USER_LOG', table 'CoLab2017.dbo.T_USER_LOG'; column does not allow nulls. INSERT fails.
+The statement has been terminated..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/11/2017 10:00:55 AM  
+IP : 116.111.63.250
+Đường dẫn : http://v2.cagaileonguyenchat.com/admin/Login.aspx
+Nội dung lỗi : SQL lỗi : Cannot insert the value NULL into column 'PK_USER_LOG', table 'CoLab2017.dbo.T_USER_LOG'; column does not allow nulls. INSERT fails.
+The statement has been terminated..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/11/2017 10:31:04 AM  
+IP : 116.111.63.250
+Đường dẫn : http://v2.cagaileonguyenchat.com/admin/Login.aspx
+Nội dung lỗi : SQL lỗi : Cannot insert the value NULL into column 'PK_USER_LOG', table 'CoLab2017.dbo.T_USER_LOG'; column does not allow nulls. INSERT fails.
+The statement has been terminated..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/11/2017 11:27:55 AM  
+IP : 116.111.63.250
+Đường dẫn : http://v2.cagaileonguyenchat.com/admin/Login.aspx
+Nội dung lỗi : SQL lỗi : Cannot insert the value NULL into column 'PK_USER_LOG', table 'CoLab2017.dbo.T_USER_LOG'; column does not allow nulls. INSERT fails.
+The statement has been terminated..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/11/2017 3:43:16 PM  
+IP : 116.111.63.250
+Đường dẫn : http://v2.cagaileonguyenchat.com/admin/Login.aspx
+Nội dung lỗi : SQL lỗi : Cannot insert the value NULL into column 'PK_USER_LOG', table 'CoLab2017.dbo.T_USER_LOG'; column does not allow nulls. INSERT fails.
+The statement has been terminated..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/16/2017 9:09:40 PM  
+IP : 116.111.63.250
+Đường dẫn : http://v2.cagaileonguyenchat.com/admin/Login.aspx
+Nội dung lỗi : SQL lỗi : Cannot insert the value NULL into column 'PK_USER_LOG', table 'CoLab2017.dbo.T_USER_LOG'; column does not allow nulls. INSERT fails.
+The statement has been terminated..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/29/2017 9:13:30 AM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/ADMIN/Login.aspx
+Nội dung lỗi : SQL lỗi : Cannot insert the value NULL into column 'PK_USER_LOG', table 'CoLab2017.dbo.T_USER_LOG'; column does not allow nulls. INSERT fails.
+The statement has been terminated..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/29/2017 9:22:02 AM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/Admin/Default.aspx?ctl=menus&pID=0
+Nội dung lỗi : SQL lỗi : A transport-level error has occurred when sending the request to the server. (provider: TCP Provider, error: 0 - An existing connection was forcibly closed by the remote host.).Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/29/2017 9:31:22 AM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/Default.aspx
+Nội dung lỗi : SQL lỗi : A transport-level error has occurred when sending the request to the server. (provider: TCP Provider, error: 0 - An existing connection was forcibly closed by the remote host.).Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/29/2017 9:48:53 AM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/Default.aspx
+Nội dung lỗi : SQL lỗi : Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/29/2017 9:48:53 AM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/Default.aspx
+Nội dung lỗi : SQL lỗi : Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/29/2017 9:48:58 AM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/Default.aspx
+Nội dung lỗi : SQL lỗi : Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/29/2017 9:48:58 AM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/Default.aspx
+Nội dung lỗi : SQL lỗi : Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/29/2017 9:49:29 AM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/Default.aspx
+Nội dung lỗi : SQL lỗi : Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/29/2017 9:49:29 AM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/Default.aspx
+Nội dung lỗi : SQL lỗi : Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/29/2017 9:49:34 AM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/Default.aspx
+Nội dung lỗi : SQL lỗi : Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/29/2017 9:49:34 AM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/Default.aspx
+Nội dung lỗi : SQL lỗi : Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/29/2017 10:01:46 AM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/Default.aspx
+Nội dung lỗi : SQL lỗi : Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/29/2017 10:04:19 AM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/Default.aspx
+Nội dung lỗi : SQL lỗi : A transport-level error has occurred when sending the request to the server. (provider: TCP Provider, error: 0 - An existing connection was forcibly closed by the remote host.).Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/29/2017 10:05:45 AM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/Default.aspx
+Nội dung lỗi : SQL lỗi : Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/29/2017 10:06:56 AM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/Default.aspx
+Nội dung lỗi : SQL lỗi : Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/29/2017 10:08:11 AM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/Default.aspx
+Nội dung lỗi : SQL lỗi : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server).Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/29/2017 10:09:00 AM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/Default.aspx
+Nội dung lỗi : SQL lỗi : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server).Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/29/2017 10:11:48 AM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/Default.aspx
+Nội dung lỗi : SQL lỗi : Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/29/2017 10:33:53 AM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/Default.aspx
+Nội dung lỗi : SQL lỗi : A transport-level error has occurred when sending the request to the server. (provider: TCP Provider, error: 0 - An existing connection was forcibly closed by the remote host.).Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/29/2017 10:35:32 AM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/Default.aspx
+Nội dung lỗi : SQL lỗi : A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.).Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/29/2017 10:38:15 AM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/Default.aspx
+Nội dung lỗi : SQL lỗi : Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/29/2017 10:38:15 AM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/Default.aspx
+Nội dung lỗi : SQL lỗi : Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/29/2017 10:38:18 AM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/Default.aspx
+Nội dung lỗi : SQL lỗi : Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/29/2017 10:38:18 AM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/Default.aspx
+Nội dung lỗi : SQL lỗi : Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/29/2017 10:38:19 AM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/Default.aspx
+Nội dung lỗi : SQL lỗi : Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/29/2017 10:38:19 AM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/Default.aspx
+Nội dung lỗi : SQL lỗi : Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/29/2017 10:38:20 AM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/Default.aspx
+Nội dung lỗi : SQL lỗi : Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/29/2017 10:38:20 AM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/Default.aspx
+Nội dung lỗi : SQL lỗi : Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/29/2017 10:44:18 AM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/Admin/Login.aspx
+Nội dung lỗi : SQL lỗi : Cannot insert the value NULL into column 'PK_USER_LOG', table 'CoLab2017.dbo.T_USER_LOG'; column does not allow nulls. INSERT fails.
+The statement has been terminated..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/29/2017 10:47:23 AM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/Admin/Default.aspx?ctl=Menu&LangID=1&pID=433&mID=434
+Nội dung lỗi : SQL lỗi : A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The specified network name is no longer available.).Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/29/2017 10:56:47 AM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/Default.aspx
+Nội dung lỗi : SQL lỗi : Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/29/2017 10:59:26 AM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/Default.aspx
+Nội dung lỗi : SQL lỗi : A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The specified network name is no longer available.).Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/29/2017 2:15:22 PM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/ADMIN/Login.aspx
+Nội dung lỗi : SQL lỗi : Cannot insert the value NULL into column 'PK_USER_LOG', table 'CoLab2017.dbo.T_USER_LOG'; column does not allow nulls. INSERT fails.
+The statement has been terminated..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/29/2017 2:30:48 PM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/Admin/Default.aspx?ctl=Menus&mess=Bạn+đã+thêm+mới+thành+công&pID=437
+Nội dung lỗi : SQL lỗi : A transport-level error has occurred when sending the request to the server. (provider: TCP Provider, error: 0 - An existing connection was forcibly closed by the remote host.).Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/29/2017 3:10:33 PM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/Admin/Login.aspx
+Nội dung lỗi : SQL lỗi : Cannot insert the value NULL into column 'PK_USER_LOG', table 'CoLab2017.dbo.T_USER_LOG'; column does not allow nulls. INSERT fails.
+The statement has been terminated..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/29/2017 8:56:11 PM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/ADMIN/Login.aspx
+Nội dung lỗi : SQL lỗi : Cannot insert the value NULL into column 'PK_USER_LOG', table 'CoLab2017.dbo.T_USER_LOG'; column does not allow nulls. INSERT fails.
+The statement has been terminated..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/29/2017 9:23:02 PM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/Admin/Login.aspx
+Nội dung lỗi : SQL lỗi : Cannot insert the value NULL into column 'PK_USER_LOG', table 'CoLab2017.dbo.T_USER_LOG'; column does not allow nulls. INSERT fails.
+The statement has been terminated..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/29/2017 9:44:40 PM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/Admin/Login.aspx
+Nội dung lỗi : SQL lỗi : Cannot insert the value NULL into column 'PK_USER_LOG', table 'CoLab2017.dbo.T_USER_LOG'; column does not allow nulls. INSERT fails.
+The statement has been terminated..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/29/2017 10:38:55 PM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/Admin/Login.aspx
+Nội dung lỗi : SQL lỗi : Cannot insert the value NULL into column 'PK_USER_LOG', table 'CoLab2017.dbo.T_USER_LOG'; column does not allow nulls. INSERT fails.
+The statement has been terminated..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/29/2017 10:45:54 PM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/Admin/Login.aspx
+Nội dung lỗi : SQL lỗi : Cannot insert the value NULL into column 'PK_USER_LOG', table 'CoLab2017.dbo.T_USER_LOG'; column does not allow nulls. INSERT fails.
+The statement has been terminated..Net SqlClient Data Provider
+
+
+Thời gian lỗi : 10/29/2017 11:01:41 PM  
+IP : 127.0.0.1
+Đường dẫn : http://localhost:65354/COLABNEW/Admin/Login.aspx
+Nội dung lỗi : SQL lỗi : Cannot insert the value NULL into column 'PK_USER_LOG', table 'CoLab2017.dbo.T_USER_LOG'; column does not allow nulls. INSERT fails.
+The statement has been terminated..Net SqlClient Data Provider
+
+

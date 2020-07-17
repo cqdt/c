@@ -1,0 +1,16 @@
+30 | Công ty TNHH MTV Daijin Vina | Thông dịch viên tiếng Hàn |  | --
+30 | Công ty TNHH MTV Daijin Vina | Công nhân cơ khí |  | --
+30 | Công ty TNHH điện tử Việt Hoa | Phiên dịch tiếng Nhật |  | --
+30 | Công ty TNHH điện tử Việt Hoa | NV kỹ thuật |  | --
+30 | Công ty TNHH điện tử Việt Hoa | NV xuất nhập khẩu |  | --
+30 | Công ty TNHH điện tử Việt Hoa | Nhân viên IT |  | --
+30 | Công ty TNHH IF Việt Nam | Front – end – Engineer |  | --
+30 | Công ty TNHH IF Việt Nam | Thiết kế Web |  | --
+30 | Công ty TNHH MTV Jone Tech | Nhân viên vận hành máy CNC |  | --
+30 | Công ty TNHH Yokohama Đà Nẵng | NV thao tác máy phay |  | --
+30 | Công ty TNHH Hanvi Vina | NV kỹ thuật cơ khí |  | --
+30 | Công ty TNHH T.T.T.I Đà Nẵng | NV kỹ thuật |  | --
+30 | Công ty TNHH T.T.T.I Đà Nẵng | Tổ trưởng sản xuất |  | --
+30 | Công ty TNHH Inspect Việt Nam – CN Đà Nẵng | NV kiểm hàng may mặc |  | --
+30 | Công ty CP Công nghiệp Quảng An 1 | Lái xe (B, C, D, E) |  | --
+30 | Công ty CP gạch men Cosevco | Lái xe nâng |  | --

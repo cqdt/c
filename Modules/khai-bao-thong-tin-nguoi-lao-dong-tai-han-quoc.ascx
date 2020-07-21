@@ -312,7 +312,7 @@
         obj.empty();
         obj.append("<option value='' ></option>")
         $.ajax({
-          url: "/get.aspx?cap="+cap+"&cha="+cha,
+          url: "http://new.colab.gov.vn/get.aspx?cap="+cap+"&cha="+cha,
         }).done(function (data) {
             var ds = $(data).find("#result").text().trim().split(';');
             for (var i = 0; i < ds.length; i++) {
@@ -337,7 +337,7 @@
         obj.empty();
         obj.append("<option value='' ></option>")
         $.ajax({
-          url: "/get.aspx?cap="+cap+"&cha="+cha,
+          url: "http://new.colab.gov.vn/get.aspx?cap="+cap+"&cha="+cha,
         }).done(function (data) {
             var ds = $(data).find("#result").text().trim().split(';');
             for (var i = 0; i < ds.length; i++) {
@@ -356,7 +356,7 @@
         if (diadiems.indexOf('|') > 0) {
             var dd = diadiems.split('|');
             $.ajax({
-                url: "/get.aspx?diadiem=" + dd[0],
+                url: "http://new.colab.gov.vn/get.aspx?diadiem=" + dd[0],
             }).done(function (data) {
                 console.log($(data).find("#result").text().trim());
                 var ds = $(data).find("#result").text().trim().split(';');
@@ -441,7 +441,7 @@
         if ($("#<%=txthochieukhaibaolandau.ClientID %>").val() == '')
             return;
         $.ajax({
-          url: "/get.aspx?hoten="+$("#<%=txthotenkhaibaolandau.ClientID %>").val().trim()+"&shc="+$("#<%=txthochieukhaibaolandau.ClientID %>").val(),
+          url: "http://new.colab.gov.vn/get.aspx?hoten="+$("#<%=txthotenkhaibaolandau.ClientID %>").val().trim()+"&shc="+$("#<%=txthochieukhaibaolandau.ClientID %>").val(),
         }).done(function (data) {
             var d = $(data).find("#result").text().trim();
             if (d != "0") {
